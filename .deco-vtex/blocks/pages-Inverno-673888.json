@@ -1,0 +1,149 @@
+{
+  "name": "Inverno",
+  "path": "/inverno",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "titleTemplate": "%s | Thamara Capelão",
+      "structuredData": {
+        "__resolveType": "PLP Loader"
+      }
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Images/FullBanner.tsx",
+      "alt": "Banner de categoria",
+      "lcp": true,
+      "href": "/",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/bd7a9453-909b-4de7-818a-4a7ce342d05c",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/1c18b33a-17ff-46fc-a93f-3bb48357ee76",
+      "contents": [
+        {
+          "desktop": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/fbe7667f-7ed6-432d-99f9-a025715854f5"
+          },
+          "mobile": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/a6550613-e109-462e-8adc-09fd727c7ffa"
+          },
+          "ga4": {
+            "items": []
+          },
+          "alt": "banner",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Category/BreadcrumbPLP.tsx",
+      "page": {
+        "__resolveType": "PLP Loader"
+      },
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "32px"
+          },
+          "desktop": {
+            "marginTop": "64px"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Product/SearchResult.tsx",
+      "page": {
+        "__resolveType": "commerce/loaders/product/extensions/listingPage.ts",
+        "data": {
+          "sort": "price:desc",
+          "fuzzy": "automatic",
+          "pageOffset": 1,
+          "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+          "selectedFacets": [
+            {
+              "key": "productClusterIds",
+              "value": "139"
+            }
+          ],
+          "count": 20
+        },
+        "extensions": [
+          {
+            "reviews": true,
+            "__resolveType": "vtex/loaders/product/extensions/listingPage.ts"
+          }
+        ]
+      },
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "32px",
+            "marginBottom": "40px"
+          },
+          "desktop": {
+            "marginTop": "32px",
+            "marginBottom": "64px"
+          }
+        }
+      },
+      "notFoundProps": {
+        "email": "contato@thamaracapelao.com.br",
+        "phone": "(31) 98751-6565",
+        "notFoundShelf": {
+          "__resolveType": "Product Shelf Not Found"
+        }
+      },
+      "notFound": {
+        "layout": {
+          "mobile": {
+            "marginTop": "0px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "0px",
+            "marginBottom": "0px"
+          }
+        },
+        "__resolveType": "Busca Vazia"
+      },
+      "section": {}
+    },
+    {
+      "__resolveType": "site/sections/Category/SeoText.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          }
+        }
+      },
+      "contents": [
+        {
+          "rule": {
+            "__resolveType": "site/matchers/canonical.ts",
+            "matcher": "/video-games-alexandre"
+          },
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Na tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit.&nbsp;</p><p>Sed eu turpis acaliquam cursus. um dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum &nbsp;vestibulum velit. Seus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. sto euismod vitae. Aenean non aliquam velit. Sed eu turp aliquam cursus. &nbsp;</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Nam tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis&nbsp;<br>aliquam cursus.&nbsp;</p>",
+          "label": "Video Games",
+          "title": "Vídeo Games"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

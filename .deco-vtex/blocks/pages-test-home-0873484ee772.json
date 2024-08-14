@@ -1,0 +1,370 @@
+{
+  "name": "test-home",
+  "path": "/test-home",
+  "sections": [
+    {
+      "noIndexing": false,
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "Carousel - 01"
+    },
+    {
+      "title": "Take a look at our benefits",
+      "benefits": [
+        {
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/85e9ef91-4340-4762-b4e3-573bba830789",
+          "label": "10% OFF no boleto",
+          "description": "Shop online with no additional fees!"
+        },
+        {
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/bd4ac462-5be4-4f66-bd78-48334c815373",
+          "label": "Retire na loja física",
+          "description": "Instant assistance anytime"
+        },
+        {
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/23583234-2f54-46bd-9762-5e0a31cac6f8",
+          "label": "Frete grátis acima de R$99,99*",
+          "description": "Discount for new customers"
+        },
+        {
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/2ba6a9af-ba46-4c0d-9307-441156b2f093",
+          "label": "Variedades de produto",
+          "description": "Easy and Convenient Return Policy"
+        }
+      ],
+      "__resolveType": "site/sections/Content/Benefits.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerArray.tsx",
+      "banners": [
+        {
+          "alt": "Banner 1",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/9db3654c-36d1-496f-8c8d-51925ae969bd",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 2",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 3",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        }
+      ],
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      }
+    },
+    {
+      "__resolveType": "Product Shelf - 05"
+    },
+    {
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "__resolveType": "site/sections/Product/ProductShelfTabbed.tsx",
+      "tabs": [
+        {
+          "title": "Vitrine 1",
+          "products": {
+            "props": {
+              "sort": "price:desc",
+              "count": 10,
+              "fuzzy": "automatic",
+              "query": "camisa"
+            },
+            "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+          },
+          "seeAllLink": "/vitrine-1"
+        },
+        {
+          "title": "Vitrine 2",
+          "products": {
+            "props": {
+              "sort": "price:desc",
+              "count": 10,
+              "fuzzy": "automatic",
+              "query": "Calça"
+            },
+            "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+          },
+          "seeAllLink": "Vitrine-2"
+        }
+      ],
+      "title": "Titulo"
+    },
+    {
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "text": "<h1 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">Fast Layout</h1><h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">Subititulo Fast Layout</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Na tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis acaliquam cursus. um dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum vestibulum velit. Seus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. sto euismod vitae. Aenean non aliquam velit. Sed eu turp aliquam cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Nam tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis <br>aliquam cursus.</p>",
+      "containerWidth": 1014
+    },
+    {
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+      "form": {
+        "name": {
+          "name": "name",
+          "label": "Nome",
+          "placeholder": "Digite seu nome"
+        },
+        "email": {
+          "name": "email",
+          "label": "E-mail",
+          "placeholder": "Digite seu e-mail"
+        },
+        "inputs": [
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Nome",
+            "placeholder": "Digite seu nome"
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Email",
+            "placeholder": "Digite o seu e-mail"
+          }
+        ],
+        "buttonText": "Assinar",
+        "termsOfUse": "<p>Ao me registrar, eu aceito os&nbsp;<a href=\"https://www.trisex.com.br/institutional/termos-de-uso\" data-mce-href=\"../../../../institutional/termos-de-uso\">Termos de Uso</a> da loja.</p>"
+      },
+      "title": "Assine nossa newsletter",
+      "description": "Fique por dentro das nossas novidades e promoções\n"
+    },
+    {
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "4px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "4px",
+            "marginBottom": "0px"
+          }
+        }
+      },
+      "__resolveType": "site/sections/Footer/Footer.tsx",
+      "logo": {
+        "alt": "Logo",
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/d95af92f-31ae-4b5c-bc79-e3281552f9ab",
+        "width": 180,
+        "height": 40
+      },
+      "sections": [
+        {
+          "text": "<h4><strong>Fale Conosco:</strong></h4><p>(00) 0000-0000</p><p><a href=\"mailto:email@email.com.br\" data-mce-href=\"mailto:email@email.com.br\">email@email.com.br</a></p><h4><strong>Horário de Atendimento:</strong></h4><p>Seg. à Sex das 0h às 00h</p><p>Sábado das 0h às 00h</p>",
+          "@type": "html",
+          "title": "Atendimento"
+        },
+        {
+          "@type": "text",
+          "title": "Institucional",
+          "textItems": [
+            {
+              "href": "/institucional/nossa-historia",
+              "@type": "text",
+              "title": "Nossa História"
+            },
+            {
+              "href": "/institucional/nossas-lojas",
+              "@type": "text",
+              "title": "Nossas Lojas"
+            },
+            {
+              "href": "/institucional/entregas",
+              "@type": "text",
+              "title": "Entregas"
+            },
+            {
+              "href": "/institucional/seguranca",
+              "@type": "text",
+              "title": "Segurança"
+            }
+          ]
+        },
+        {
+          "@type": "text",
+          "title": "Ajuda e Suporte",
+          "textItems": [
+            {
+              "href": "/institucional/privacidade",
+              "@type": "text",
+              "title": "Privacidade"
+            },
+            {
+              "href": "/account#/orders",
+              "@type": "text",
+              "title": "Meus Pedidos"
+            },
+            {
+              "href": "/institucional/trabalhe-conosco",
+              "@type": "text",
+              "title": "Trabalhe Conosco"
+            },
+            {
+              "href": "/institucional/fale-conosco",
+              "@type": "text",
+              "title": "Fale Conosco"
+            }
+          ]
+        },
+        {
+          "@type": "image",
+          "title": "Certificações",
+          "imageItems": [
+            {
+              "alt": "Let's Encrypt",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6251e427-4826-487f-aad2-fbcfa521100a",
+              "href": "https://letsencrypt.org/pt-br/",
+              "@type": "image",
+              "width": 51,
+              "height": 39,
+              "external": true
+            },
+            {
+              "alt": "Vtex Certified",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5beb1200-9f9a-4187-bec6-49f4d5ad5e00",
+              "href": "https://secure.vtex.com/?an=agenciaeplus",
+              "@type": "image",
+              "width": 72,
+              "height": 44,
+              "external": true
+            }
+          ]
+        },
+        {
+          "@type": "image",
+          "title": "Redes Sociais",
+          "imageItems": [
+            {
+              "alt": "Linkdin",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/eceaaf1a-ebbc-48ec-a6e8-928f0d4e7514",
+              "href": "https://www.linkedin.com/company/agenciaeplus",
+              "@type": "image",
+              "width": 27,
+              "height": 27
+            },
+            {
+              "alt": "Instagram",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/230b3601-c99c-403e-9ea7-ff899e912974",
+              "href": "https://www.instagram.com/agenciaeplus/",
+              "@type": "image",
+              "width": 27,
+              "height": 27,
+              "external": true
+            },
+            {
+              "alt": "Pinterest",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/e88b0b8a-6784-496a-918d-789259da0b69",
+              "href": "https://www.instagram.com/agenciaeplus/",
+              "@type": "image",
+              "width": 27,
+              "height": 27,
+              "external": true
+            },
+            {
+              "alt": "Facebook",
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/9a61b053-24f9-4d83-8bc7-58b51a882dac",
+              "href": "https://www.facebook.com/agenciaeplus",
+              "@type": "image",
+              "width": 27,
+              "height": 27,
+              "external": true
+            }
+          ]
+        }
+      ],
+      "copyRight": "<p>© 2021, Lorem Ipsum. Todos os direitos reservados. It is a long established fact that a reader will be distracted, São Paulo. SP CEP: 01234-100 | CNPJ: 01.234.567/0088-09</p>",
+      "paymentFlags": [
+        {
+          "alt": "Mastercard",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/3948043a-869b-40e1-bb32-1ad0be379c81"
+        },
+        {
+          "alt": "Visa",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/b15cf225-1d45-4be4-8c1f-a1378c7271b3"
+        },
+        {
+          "alt": "elo",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/940a81cc-0540-40a5-ac67-29d4b5628432"
+        },
+        {
+          "alt": "hipercard",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f4e1fce0-f875-4dad-8bc7-065817b3e9bd"
+        },
+        {
+          "alt": "American Express",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/36cadf23-f5b6-4042-8559-5427dc5d4f98"
+        },
+        {
+          "alt": "Diners Club",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6ee36d30-059d-4615-8ee5-c46ee279abe7"
+        },
+        {
+          "alt": "Hiper",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/977400a7-5068-46d3-8c33-4ca6bd641fe0"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Busca Vazia"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

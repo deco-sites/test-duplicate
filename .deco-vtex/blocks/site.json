@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "type": "website",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/e85389a5-54d1-4141-b8b4-c00236f642d5",
+    "jsonLDs": [],
+    "noIndexing": false,
+    "description": "Agencia e-Plus",
+    "titleTemplate": "%s | Agencia e-Plus",
+    "descriptionTemplate": "%s",
+    "themeColor": "#fff",
+    "title": "Agência e-Plus",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/63907002-52c1-4071-ac01-2ba95f762f1c"
+  },
+  "theme": {
+    "__resolveType": "Fashion theme"
+  },
+  "global": [
+    {
+      "__resolveType": "website/sections/Analytics/Analytics.tsx",
+      "dangerouslyRunOnMainThread": true
+    },
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    }
+  ],
+  "routes": [
+    {
+      "__resolveType": "vtex/loaders/proxy.ts",
+      "includeSiteMap": [],
+      "extraPathsToProxy": [],
+      "includeScriptsToHead": {
+        "includePlausible": true
+      }
+    },
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
+  ],
+  "caching": {
+    "enabled": true,
+    "directives": []
+  },
+  "platform": "vtex",
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    }
+  },
+  "__resolveType": "site/apps/site.ts",
+  "firstByteThresholdMS": true,
+  "flavor": {
+    "framework": "fresh"
+  },
+  "vtex": {
+    "__resolveType": "vtex/loaders/config.ts"
+  }
+}

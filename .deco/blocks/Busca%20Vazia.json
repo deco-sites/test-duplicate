@@ -1,0 +1,18 @@
+{
+  "__resolveType": "site/sections/Product/NotFound.tsx",
+  "SEO": {
+    "__resolveType": "site/sections/SEO/PageSEO.tsx",
+    "og": {
+      "type": "website"
+    },
+    "title": "Busca não encontrada",
+    "structuredData": {
+      "__resolveType": "PLP Loader"
+    }
+  },
+  "phone": "(11) 2373-5471",
+  "email": "contato@agenciaeplus.com.br",
+  "notFoundShelf": {
+    "__resolveType": "Product Shelf Not Found"
+  }
+}

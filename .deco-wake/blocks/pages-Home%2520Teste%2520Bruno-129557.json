@@ -1,0 +1,177 @@
+{
+  "name": "Home Teste Bruno",
+  "path": "/teste-home-bruno",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "site/sections/SEO/PageSEO.tsx",
+            "structuredData": null,
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/9c982f00-ef34-40fa-b995-9c2f909f5f23",
+            "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/c0d0f92c-7f5f-4659-92ec-e6eccc8bc2a1",
+            "description": "A marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade.",
+            "title": "Thamara Capelão | Moda Feminina",
+            "titleTemplate": "Thamara Capelão | Moda Feminina"
+          },
+          {
+            "__resolveType": "Header - 01"
+          },
+          {
+            "__resolveType": "Carousel - 01"
+          },
+          {
+            "__resolveType": "Benefits - padrão"
+          },
+          {
+            "__resolveType": "Product Shelf - 01"
+          },
+          {
+            "__resolveType": "site/sections/Images/BannerArray.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "banners": [
+              {
+                "alt": "Banner 1",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 2",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              }
+            ]
+          },
+          {
+            "__resolveType": "Product Shelf - 02"
+          },
+          {
+            "__resolveType": "site/sections/Images/FullBanner.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "alt": "Banner de ponto a ponta",
+            "lcp": false,
+            "href": "/a",
+            "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/2be769f5-cc6d-4d98-aeba-ef9b36021897",
+            "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/4606cfff-aa6c-4243-a74e-1e75bd388e40",
+            "contents": [
+              {
+                "alt": "Banner",
+                "href": "/",
+                "mobile": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/1c9fe42d-d677-4a31-8cce-444a94a7604c",
+                  "height": 460
+                },
+                "tablet": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/059d9553-e01a-4853-8cbf-8e8955d7c261",
+                  "height": 460
+                },
+                "desktop": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6260b9d2-9a14-4727-a967-e6b7ec540cff",
+                  "height": 470
+                }
+              }
+            ]
+          },
+          {
+            "__resolveType": "Product Shelf Tabbed - 01"
+          },
+          {
+            "__resolveType": "site/sections/Images/BannerArray.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "banners": [
+              {
+                "alt": "Banner 1",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 2",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 3",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Content/RichText.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "40px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "64px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "text": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">THAMARA CAPELÃO</h1><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Moda Feminina</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Fundada em 1989 por <strong>Thamara Capelão</strong>, a marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade. Atemporalidade, exclusividade e qualidade: esses são princípios que estão presentes em cada produto, atendimento e conteúdo criado.</p>",
+            "containerWidth": 1014
+          },
+          {
+            "__resolveType": "Newsletter - padrão"
+          },
+          {
+            "__resolveType": "Footer - padrão"
+          },
+          {
+            "__resolveType": "Cookie Consent - Padrão"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "unindexedDomain": false
+}

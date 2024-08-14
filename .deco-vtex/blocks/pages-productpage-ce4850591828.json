@@ -1,0 +1,231 @@
+{
+  "name": "Product Page",
+  "path": "/:slug/p",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "commerce/sections/Seo/SeoPDP.tsx",
+      "jsonLD": {
+        "__resolveType": "PDP Loader"
+      },
+      "jsonLDs": [{}],
+      "noIndexing": false
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Product/Product.tsx",
+      "page": {
+        "__resolveType": "PDP Loader"
+      },
+      "name": "productGroup",
+      "sizeTable": {
+        "tables": [
+          {
+            "id": "85",
+            "matchBy": "categoryId",
+            "sizeTable": {
+              "cols": [
+                {
+                  "title": "Tamanho",
+                  "values": ["PP", "P", "M", "G", "GG"]
+                },
+                {
+                  "title": "toráx",
+                  "values": ["82", "86", "91", "96", "101"]
+                },
+                {
+                  "title": "cintura",
+                  "values": ["66", "75", "80", "85", "96"]
+                },
+                {
+                  "title": "quadril",
+                  "values": ["94", "98", "104", "110", "115"]
+                }
+              ]
+            }
+          },
+          {
+            "id": "90",
+            "matchBy": "categoryId",
+            "sizeTable": {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/fb5dff54-28b2-4240-8cd6-40873a0eac80",
+              "width": 449,
+              "height": 251
+            }
+          },
+          {
+            "id": "1935264411",
+            "matchBy": "productId",
+            "sizeTable": {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6ea9f293-bfdf-4406-aaa8-2871b00c9f48",
+              "width": 449,
+              "height": 251
+            }
+          },
+          {
+            "id": "2",
+            "matchBy": "categoryId",
+            "sizeTable": {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6ea9f293-bfdf-4406-aaa8-2871b00c9f48",
+              "width": 449,
+              "height": 251
+            }
+          }
+        ],
+        "sizePropertyName": " "
+      },
+      "sealsConfig": {
+        "__resolveType": "Selos"
+      },
+      "crossSelling": {
+        "title": "Cor:",
+        "products": {
+          "slug": {
+            "param": "slug",
+            "__resolveType": "website/functions/requestToParam.ts"
+          },
+          "count": 8,
+          "crossSelling": "similars",
+          "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts"
+        },
+        "titleProperty": "Cor"
+      },
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "32px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "16px",
+            "marginBottom": "0px"
+          }
+        }
+      },
+      "shareOptions": {
+        "showCopyButton": true,
+        "showTwitterButton": false,
+        "showFacebookButton": false,
+        "showWhatsappButton": true,
+        "showPinterestButton": false
+      },
+      "customMethods": [
+        {
+          "name": "Pix",
+          "description": "O pagamento é instantâneo e só pode ser à vista. Na etapa de finalização da compra, a gente explica direitinho como pagar com Pix."
+        },
+        {
+          "name": "Boleto",
+          "description": "O Boleto bancário será exibido após a confirmação da compra e poderá ser impresso para pagamento em qualquer agência bancária, ou ter o número anotado para pagamento pelo telefone ou internet."
+        }
+      ],
+      "productColors": {
+        "slug": {
+          "param": "slug",
+          "__resolveType": "website/functions/requestToParam.ts"
+        },
+        "crossSelling": "similars",
+        "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts"
+      },
+      "variantsToRenderAsImage": ["Color"],
+      "identifierCode": "ref"
+    },
+    {
+      "page": {
+        "__resolveType": "PDP Loader"
+      },
+      "__resolveType": "site/sections/Product/BuyFloating.tsx"
+    },
+    {
+      "page": {
+        "__resolveType": "PDP Loader"
+      },
+      "__resolveType": "site/sections/Product/ProductBuyTogether.tsx",
+      "title": "Aproveite e compre junto",
+      "products": {
+        "slug": {
+          "param": "slug",
+          "__resolveType": "website/functions/requestToParam.ts"
+        },
+        "count": 10,
+        "crossSelling": "showtogether",
+        "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts"
+      },
+      "variantsSettings": [
+        {
+          "key": "Tamanho",
+          "value": "Tamanho",
+          "selectMessage": "Selecione o tamanho do produto"
+        },
+        {
+          "key": "Encordoamento",
+          "value": "Encordoamento",
+          "selectMessage": "Selecione o encordoamento do produto"
+        }
+      ]
+    },
+    {
+      "page": {
+        "__resolveType": "PDP Loader"
+      },
+      "__resolveType": "site/sections/Product/ProductDescription.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginBottom": "40px",
+            "marginTop": "40px"
+          },
+          "desktop": {
+            "marginBottom": "64px",
+            "marginTop": "64px"
+          }
+        }
+      },
+      "specificationsToShow": ["Cor", "Tamanho", "idade", "category", "RefId"]
+    },
+    {
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginBottom": "40px"
+          },
+          "desktop": {
+            "marginBottom": "64px"
+          }
+        }
+      },
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
+      "title": "Quem viu, também viu",
+      "products": {
+        "slug": {
+          "param": "slug",
+          "__resolveType": "website/functions/requestToParam.ts"
+        },
+        "crossSelling": "whosawalsosaw",
+        "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts"
+      },
+      "sealsConfig": {
+        "__resolveType": "Selos"
+      },
+      "layout": {
+        "numberOfSliders": {
+          "mobile": 2,
+          "tablet": 3,
+          "desktop": 4
+        }
+      }
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "unindexedDomain": false
+}

@@ -1,0 +1,71 @@
+{
+  "name": "product",
+  "title": "CALÇAS",
+  "layout": {
+    "headerfontSize": "Large",
+    "headerAlignment": "center",
+    "numberOfSliders": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 5
+    }
+  },
+  "products": {
+    "__resolveType": "wake/loaders/productList.ts",
+    "first": 12,
+    "sortDirection": "ASC",
+    "sortKey": "DISCOUNT",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    }
+  },
+  "cardLayout": {
+    "hide": {},
+    "basics": {
+      "ctaText": "View more",
+      "oldPriceSize": "Normal",
+      "contentAlignment": "Center"
+    },
+    "onMouseOver": {
+      "card": "None",
+      "image": "Change image"
+    },
+    "elementsPositions": {
+      "skuSelector": "Bottom",
+      "favoriteIcon": "Top right"
+    }
+  },
+  "description": "The best selection for you",
+  "sealsConfig": [],
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "40px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "64px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "defer": "intersection"
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Institucionais",
+  "path": "/institucional/:slug",
+  "sections": [
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "contents": [
+        {
+          "body": [
+            {
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "title": "Quem somos",
+              "description": "Quem somos"
+            },
+            {
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx",
+              "title": "Quem Somos",
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>QUEM SOMOS﻿</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Fundada em 1989 por Thamara Capelão, a marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A história da marca teve início com a técnica de bordados à mão, aprendida desde muito cedo por Thamara com sua avó. Desenvolveu-se, então, uma identidade barroca, que permeia todas as coleções, estampada em tecidos nobres e peças únicas.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Atemporalidade, exclusividade e qualidade: esses são princípios que estão presentes em cada produto, atendimento e conteúdo criado.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A <strong>Thamara Capelão</strong> acredita que podemos gerar um novo mundo com criatividade, originalidade e uma fé transformadora.&nbsp;</span><br></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/c19e7be8-a16a-4d5d-ad47-fc186cff84e2"
+              }
+            }
+          ],
+          "slug": "quem-somos",
+          "title": "Quem Somos"
+        },
+        {
+          "body": [
+            {
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Políticas de Pagamentos",
+              "title": "Políticas de Pagamentos"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICAS DE PAGAMENTO</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>Cartões de crédito</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong><br data-mce-bogus=\"1\"></strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong></strong></span><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong></strong></span><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Nossa loja virtual aceita os cartões Mastercard, Diners Club, Visa, American Express, Hipercard e Elo.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A partir da constatação da aprovação de crédito pela sua operadora, o prazo de entrega passa a vigorar. Essa é a forma mais rápida de processar o seu pedido.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Na hora de optar pelo pagamento parcelado no cartão, você deve levar em consideração o valor total da compra e não somente o valor da parcela. Este valor deve estar dentro do limite total de seu cartão de crédito.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></p><p><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">PIX</span></strong><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Após finalizar seu pedido, será gerado um QR code para pagamento via PIX. Ou se preferir poderá utilizar a chave: CNPJ: 12.888.683/0001-44. O prazo para a compensação é de até 2 dias úteis.</span></p><p><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></strong></p><p><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Boleto Bancário</span></strong></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br data-mce-bogus=\"1\"></span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Para pagamento utilizando boleto bancário, a validação da sua compra só será feita após a compensação do pagamento pela Instituição Financeira. O prazo para a compensação é de até 3 dias úteis.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Todos os pagamentos são feitos em ambiente 100% seguro. Todos os dados são criptografados por SSL e enviados diretamente para a Instituição Financeira, não ficando guardado em nossos bancos de dados.</span></p><p><br data-mce-bogus=\"1\"></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/abf17a77-6d49-4487-a0b5-f777c5873003"
+              },
+              "title": "Políticas de Pagamentos",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politicas-de-pagamentos",
+          "title": "Políticas de Pagamentos"
+        },
+        {
+          "body": [
+            {
+              "title": "Política de Fretes",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Política de Fretes"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICAS DE FRETE﻿</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>Calculo do frete:</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;O frete é calculado durante o processo de compra, no qual você será solicitado a informar o CEP da entrega do produto.&nbsp;<br>&nbsp;<br>O sistema calculará automaticamente o valor do frete, que será somado ao valor da compra, formando assim o valor total a ser pago.<br>&nbsp;<br>O valor do frete está relacionado com as dimensões e peso do produto, a distância do local de entrega da encomenda e a forma de entrega.</span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>Envio da Mercadoria:</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O prazo de envio de sua encomenda na loja se inicia a partir da confirmação de pagamento pela instituição financeira.<strong><br>&nbsp;<br>Caso tenha dúvidas, entre em contato com o nosso Serviço de Atendimento ao Cliente.<br></strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/8d9f0b3c-50ee-4fa2-99f3-d2ec3deb49ad"
+              },
+              "title": "Política de Fretes",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politica-de-fretes",
+          "title": "Política de Fretes"
+        },
+        {
+          "body": [
+            {
+              "title": "Como Comprar",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Como Comprar"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>COMO COMPRAR﻿</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Comprar na Thamara Capelão é muito mais simples do que se pode imaginar!&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Seguindo os passos abaixo você notará que tudo foi pensado para facilitar a sua escolha, dando-lhe tantas alternativas, que sempre será possível encontrar aquilo que você procura. Mas, se você preferir tirar alguma dúvida por telefone, ligue para (31) 3567-1805 ou (31) 98751-6565.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Como localizar um produto&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A qualquer momento de sua navegação pela loja, você encontrará facilmente as mercadorias que está procurando, pelos recursos disponibilizados na loja, a localização via Menu ou via Busca.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Localizando via Menu&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Constará no menu no topo ou ao lado esquerdo a relação de categorias que dispomos, clicando em qualquer uma delas serão listados os produtos relacionados a categoria selecionada.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Localizando via Busca&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Outra maneira é utilizando-se da facilidade da busca, cujo formulário pode ser localizado na home da nossa Loja e descrito como “Buscar produto”. Você deverá digitar uma palavra que identifique aquilo que está buscando e o sistema localizará o item, favor digitar no mínimo 3 caracteres.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Como comprar na Loja&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O critério utilizado na loja é o do fundamento do carrinho de compras, método interativo e mais adequado à sua comodidade. Desta maneira você poderá ter sempre o controle sobre os produtos já lançados, impedindo-o de cometer um erro de avaliação no momento da escolha dos produtos pretendidos.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Colocando os produtos no Carrinho&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Após encontrar o produto desejado, clique no botão “comprar”. Lembre-se de escolher o tamanho e a cor* desejada. E não se preocupe, nas páginas dos produtos disponibilizamos um guia de tamanhos para escolher o tamanho ideal. Basta clicar em “Guia de Medidas”, localizado ao lado ou abaixo da foto do produto. O botão “comprar” encontra-se próximo ao produto desejado. Clicando no botão, será visualizada uma mensagem informando que o produto escolhido foi adicionado no carrinho e você terá a opção de Continuar Comprando ou Finalizar a Compra.</span><br><em><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A diferença de tonalidade entre a peça e as fotos pode existir devido a iluminação utilizada em cada uma delas.</span></em><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Finalizar a compra&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Ao clicar em Finalizar a compra, você será redirecionado para uma nova tela demonstrando a listagem de produtos adicionados, onde você terá a opção de editar sua compra caso seja necessário (Alterar quantidade, deletar algum item, etc...). Nesta página você deverá informar um CEP válido para o cálculo do frete e escolher a forma de entrega. Após este procedimento clique no botão FINALIZAR COMPRA.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Continuar comprando</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Caso queira continuar comprando você será mantido na mesma página. Após inserir os produtos necessários no carrinho e desejar finalizar a compra, é preciso localizar o carrinho de compras da loja que estará no canto superior direito da loja.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Ao clicar no carrinho você será redirecionado para uma nova tela demonstrando a listagem dos produtos adicionados, onde você poderá verificar a quantidade e preços individuais de cada produto, calcular o frete e ainda alterar a quantidade de algum item. Você poderá também excluir um produto caso queira.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Autenticação do Usuário&nbsp;</span></strong></p><p><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Nesta página você deverá informar seu cadastro no site, usuário e senha, e clicar em “entrar” continuar para finalizar a sua compra. Caso ainda não tenha cadastro da loja, bastar ir em “Sou um novo cliente”, digitar seu e-mail, e preencher os campos necessários para concluir seu cadastro.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Finalização de Compra</span></strong><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Após inserir o seu cadastro e clicar em entrar, você será redirecionado para a tela de finalização de compra. Nessa tela você deve verificar os seus dados pessoais e de entrega ou alterar caso necessário, após a verificação clique no botão CONTINUAR.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Informe a forma de pagamento que deseja para finalizar a compra e clique no botão FINALIZAR COMPRA.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Confirmação do Pedido&nbsp;</span></strong></p><p><br data-mce-bogus=\"1\"></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Após finalizar o seu pedido você será redirecionado para a tela de Pedido Confirmado, nessa tela será exibida as informações do pedido como forma de entrega, forma de pagamento, resumo dos itens do pedido etc...</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Nesse momento o pedido será colocado no nosso sistema, estando sujeito à confirmação do pagamento. O usuário declara conhecer e aceitar que os seus dados pessoais e a sua interação como comprador em nosso site sejam usados rotineiramente para a verificação e aprovação de seu crédito em cada oportunidade de compra, estando nossa empresa livre para verificar a veracidade de todos os dados do comprador e condições de crédito.</span></p><p><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Seu código de rastreio será informado assim que fizermos o envio do seu pedido. Agora é só aguardar que seu pedido da loja Thamara Capelão que será entregue para o endereço indicado no pedido.</span><br></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/e1a5610f-eea9-421c-9f14-c5d0e34e49b7"
+              },
+              "title": "Como Comprar",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "como-comprar",
+          "title": "Como Comprar"
+        },
+        {
+          "body": [
+            {
+              "title": "Política de Troca e Devolução",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Política de Troca e Devolução"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICA DE TROCA E DEVOLUÇÃO</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Caso deseje realizar uma troca ou devolução, no prazo de até 07 (sete) dias, contado a partir do recebimento do(s) produto(s), basta clicar em “solicitar troca ou devolução” na página de detalhes do pedido que deseja fazer a troca ou devolução. Dessa forma, forneceremos um código de postagem reversa, que permitirá o envio das peças com frete gratuito.</span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><br>Para trocas e devoluções, o produto deverá ser encaminhado na embalagem original, com todas as etiquetas afixadas à peça (etiqueta externa, de papel e etiqueta interna, costurada na peça), sem indícios de uso e acompanhado da 2ª via da nota fiscal. Caso não tenha a nota fiscal, favor fazer uma declaração de compra por escrito descrevendo os motivos da troca ou devolução.</span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Não realizamos trocas de brindes.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Troca pelo mesmo produto</span></strong></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Caso a opção de troca for pelo mesmo produto, havendo somente alteração de cor e/ou tamanho e sem mudança de valores, assim que a peça enviada para troca for recepcionada pela Thamara Capelão e liberada pelo setor de análise, enviaremos a peça nova e informaremos o novo código de rastreamento para acompanhamento da entrega.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Troca por produto diferente</span></strong></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Se a opção de troca for por um produto diferente daquele que foi adquirido, assim que a peça enviada para troca for recepcionada pela Thamara Capelão e liberada pelo setor de análise, forneceremos um cupom de desconto no valor pago pelas peças devolvidas + valor do frete pago. Esse cupom possibilita que um novo pedido seja realizado no site da Thamara Capelão, escolhendo as novas peças desejadas e pagando somente pela diferença de valores, caso houver.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Cancelamento/Arrependimento</span></strong></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O prazo para desistência ou arrependimento da sua compra é de 07 (sete) dias corridos, a contar da data de recebimento do produto.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O produto deverá estar na embalagem original, sem indícios de uso, com todas as etiquetas afixadas à peça, (etiqueta externa, de papel e etiqueta interna, costurada na peça) e acompanhado da 2ª via da nota fiscal.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Reembolsos</span></strong></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O reembolso por desistência ou arrependimento se dará da seguinte forma:&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Compras pagas com Cartão de Crédito: O cliente poderá optar por receber um Vale Compras no valor pago, para ser utilizado na compra de qualquer produto na loja, ou solicitar a Thamara Capelão o estorno do valor pago na fatura de seu cartão de crédito. Atenção: na maioria das vezes o estorno é computado apenas na fatura subsequente.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Compras com Boleto Bancário, Depósito ou PIX: O cliente poderá optar por receber um Vale Compras no valor pago, para ser utilizado na compra de qualquer produto na loja ou solicitar a Thamara Capelão o reembolso em sua conta corrente. Para reembolso através de DOC, é necessário que o titular da conta seja o mesmo que efetuou o pedido na Loja.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">O Vale Compras é válido por 90 dias a contar da data de envio do mesmo.</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Caso algum produto tenha sido expedido por engano ou trocado em relação ao pedido, devolva-o após avisar-nos por e-mail ou pelo telefone (31) 3285-4514 ou (31) 98751-6565.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Se for comprovada a nossa falha, faremos o estorno de todos os valores pagos.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><strong><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Defeitos de Fabricação</span></strong></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Os produtos que nos forem encaminhados por motivo de defeito passarão pelo nosso setor de análise para avaliação e constatação ou não do defeito de fabricação. Caso seja constatado que não há defeito no produto, a Thamara Capelão providenciará o envio do mesmo produto ao endereço do cliente; caso seja necessário o conserto do produto, o prazo para devolução do produto consertado é de 30 (trinta) dias, a contar da data de recebimento do produto em nosso estoque.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">A Thamara Capelão está isenta da obrigação de trocar ou consertar qualquer produto cujo defeito tenha sido ocasionado por mau uso, de acordo com a avaliação de nosso setor de análise. Esclarecemos que mesmo sendo a solicitação realizada no prazo de sete dias corridos previsto para a desistência da compra, a Thamara Capelão reserva-se o direito de providenciar o conserto do produto, nos termos do Código de Defesa do Consumidor.&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">&nbsp;</span><br><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Se alguma dúvida ainda persistir, pedimos que entre em contato conosco.&nbsp;</span><br></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/e1a5610f-eea9-421c-9f14-c5d0e34e49b7"
+              },
+              "title": "Política de Troca e Devolução",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politica-de-troca-e-devolucao",
+          "title": "Política de Troca e Devolução"
+        },
+        {
+          "body": [
+            {
+              "title": "Fale conosco",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Fale conosco"
+            },
+            {
+              "__resolveType": "site/sections/Forms/Contact.tsx",
+              "settings": {
+                "acronym": "FC"
+              }
+            }
+          ],
+          "slug": "fale-conosco",
+          "title": "Fale Conosco"
+        }
+      ],
+      "__resolveType": "site/sections/Institutional/Institutional.tsx"
+    },
+    {
+      "__resolveType": "Benefits - padrão"
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

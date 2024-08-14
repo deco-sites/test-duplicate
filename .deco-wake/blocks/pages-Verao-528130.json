@@ -1,0 +1,835 @@
+{
+<<<<<<< HEAD:.deco-wake/blocks/pages-Verao-528130.json
+  "name": "Verao",
+  "path": "/verao",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "structuredData": null,
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/9c982f00-ef34-40fa-b995-9c2f909f5f23",
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/c0d0f92c-7f5f-4659-92ec-e6eccc8bc2a1",
+      "description": "A marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade.",
+      "title": "Thamara Capelão | Moda Feminina",
+      "titleTemplate": "Thamara Capelão | Moda Feminina"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "Carousel - 01"
+    },
+    {
+      "__resolveType": "Benefits - padrão"
+    },
+    {
+      "__resolveType": "Product Shelf - 01"
+    },
+    {
+      "__resolveType": "site/sections/Content/Hero.tsx",
+      "cta": {
+        "0": {
+          "href": "/teste",
+          "text": "teste",
+          "variant": "Reverse"
+        },
+        "1": {
+          "href": "/teste2",
+          "text": "teste-2",
+          "variant": "Reverse"
+        },
+        "href": "/hero",
+        "text": "Ver mais"
+      },
+      "image": {
+        "0": "h",
+        "1": "t",
+        "2": "t",
+        "3": "p",
+        "4": "s",
+        "5": ":",
+        "6": "/",
+        "7": "/",
+        "8": "o",
+        "9": "z",
+        "10": "k",
+        "11": "s",
+        "12": "g",
+        "13": "d",
+        "14": "m",
+        "15": "y",
+        "16": "r",
+        "17": "q",
+        "18": "c",
+        "19": "x",
+        "20": "c",
+        "21": "w",
+        "22": "h",
+        "23": "n",
+        "24": "b",
+        "25": "e",
+        "26": "p",
+        "27": "g",
+        "28": ".",
+        "29": "s",
+        "30": "u",
+        "31": "p",
+        "32": "a",
+        "33": "b",
+        "34": "a",
+        "35": "s",
+        "36": "e",
+        "37": ".",
+        "38": "c",
+        "39": "o",
+        "40": "/",
+        "41": "s",
+        "42": "t",
+        "43": "o",
+        "44": "r",
+        "45": "a",
+        "46": "g",
+        "47": "e",
+        "48": "/",
+        "49": "v",
+        "50": "1",
+        "51": "/",
+        "52": "o",
+        "53": "b",
+        "54": "j",
+        "55": "e",
+        "56": "c",
+        "57": "t",
+        "58": "/",
+        "59": "p",
+        "60": "u",
+        "61": "b",
+        "62": "l",
+        "63": "i",
+        "64": "c",
+        "65": "/",
+        "66": "a",
+        "67": "s",
+        "68": "s",
+        "69": "e",
+        "70": "t",
+        "71": "s",
+        "72": "/",
+        "73": "4",
+        "74": "4",
+        "75": "0",
+        "76": "3",
+        "77": "/",
+        "78": "6",
+        "79": "5",
+        "80": "d",
+        "81": "c",
+        "82": "f",
+        "83": "e",
+        "84": "6",
+        "85": "0",
+        "86": "-",
+        "87": "d",
+        "88": "2",
+        "89": "5",
+        "90": "c",
+        "91": "-",
+        "92": "4",
+        "93": "0",
+        "94": "6",
+        "95": "e",
+        "96": "-",
+        "97": "a",
+        "98": "c",
+        "99": "7",
+        "100": "5",
+        "101": "-",
+        "102": "c",
+        "103": "1",
+        "104": "8",
+        "105": "2",
+        "106": "e",
+        "107": "0",
+        "108": "3",
+        "109": "2",
+        "110": "9",
+        "111": "b",
+        "112": "4",
+        "113": "8",
+        "alt": "Image",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f798b1c2-f02e-4d15-8ce8-eadd1a9c30ef",
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/7cb942d7-14c1-4db3-96d1-fe9f73bb3271"
+      },
+      "title": "<h2>Titulo <strong>Hero</strong></h2>",
+      "placement": "left",
+      "description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. ",
+      "mobileImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/70ce0d06-eb49-407a-809d-cd60bef3a01a",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+=======
+  "name": "Home Copy",
+  "path": "/home-copy-old",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "site/sections/SEO/PageSEO.tsx",
+            "structuredData": null,
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/9c982f00-ef34-40fa-b995-9c2f909f5f23",
+            "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/c0d0f92c-7f5f-4659-92ec-e6eccc8bc2a1",
+            "description": "A marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade.",
+            "title": "Thamara Capelão | Moda Feminina",
+            "titleTemplate": "Thamara Capelão | Moda Feminina"
+>>>>>>> fbeb4b04b6f72baec60632b9ce87fd376bef85ba:.deco/blocks/pages-Home%2520Copy-935953.json
+          },
+          {
+            "__resolveType": "Header - 01"
+          },
+          {
+            "__resolveType": "Carousel - 01"
+          },
+          {
+            "__resolveType": "Benefits - padrão"
+          },
+          {
+            "__resolveType": "Product Shelf - 01"
+          },
+          {
+            "__resolveType": "site/sections/Content/Hero.tsx",
+            "cta": {
+              "0": {
+                "href": "/teste",
+                "text": "teste",
+                "variant": "Reverse"
+              },
+              "1": {
+                "href": "/teste2",
+                "text": "teste-2",
+                "variant": "Reverse"
+              },
+              "href": "/hero",
+              "text": "SHOP NOW",
+              "invertTextColor": false
+            },
+            "image": {
+              "0": "h",
+              "1": "t",
+              "2": "t",
+              "3": "p",
+              "4": "s",
+              "5": ":",
+              "6": "/",
+              "7": "/",
+              "8": "o",
+              "9": "z",
+              "10": "k",
+              "11": "s",
+              "12": "g",
+              "13": "d",
+              "14": "m",
+              "15": "y",
+              "16": "r",
+              "17": "q",
+              "18": "c",
+              "19": "x",
+              "20": "c",
+              "21": "w",
+              "22": "h",
+              "23": "n",
+              "24": "b",
+              "25": "e",
+              "26": "p",
+              "27": "g",
+              "28": ".",
+              "29": "s",
+              "30": "u",
+              "31": "p",
+              "32": "a",
+              "33": "b",
+              "34": "a",
+              "35": "s",
+              "36": "e",
+              "37": ".",
+              "38": "c",
+              "39": "o",
+              "40": "/",
+              "41": "s",
+              "42": "t",
+              "43": "o",
+              "44": "r",
+              "45": "a",
+              "46": "g",
+              "47": "e",
+              "48": "/",
+              "49": "v",
+              "50": "1",
+              "51": "/",
+              "52": "o",
+              "53": "b",
+              "54": "j",
+              "55": "e",
+              "56": "c",
+              "57": "t",
+              "58": "/",
+              "59": "p",
+              "60": "u",
+              "61": "b",
+              "62": "l",
+              "63": "i",
+              "64": "c",
+              "65": "/",
+              "66": "a",
+              "67": "s",
+              "68": "s",
+              "69": "e",
+              "70": "t",
+              "71": "s",
+              "72": "/",
+              "73": "4",
+              "74": "4",
+              "75": "0",
+              "76": "3",
+              "77": "/",
+              "78": "6",
+              "79": "5",
+              "80": "d",
+              "81": "c",
+              "82": "f",
+              "83": "e",
+              "84": "6",
+              "85": "0",
+              "86": "-",
+              "87": "d",
+              "88": "2",
+              "89": "5",
+              "90": "c",
+              "91": "-",
+              "92": "4",
+              "93": "0",
+              "94": "6",
+              "95": "e",
+              "96": "-",
+              "97": "a",
+              "98": "c",
+              "99": "7",
+              "100": "5",
+              "101": "-",
+              "102": "c",
+              "103": "1",
+              "104": "8",
+              "105": "2",
+              "106": "e",
+              "107": "0",
+              "108": "3",
+              "109": "2",
+              "110": "9",
+              "111": "b",
+              "112": "4",
+              "113": "8",
+              "alt": "Image",
+              "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f798b1c2-f02e-4d15-8ce8-eadd1a9c30ef",
+              "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/7cb942d7-14c1-4db3-96d1-fe9f73bb3271"
+            },
+            "title": "<h2><strong>VERÃO</strong> <strong>2024</strong></h2>",
+            "placement": "right",
+            "description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. ",
+            "mobileImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/70ce0d06-eb49-407a-809d-cd60bef3a01a",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            }
+          },
+          {
+            "__resolveType": "Product Shelf - 02"
+          },
+          {
+            "__resolveType": "site/sections/Images/FullBanner.tsx",
+            "alt": "Banner de ponto a ponta",
+            "lcp": false,
+            "href": "/a",
+            "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/2be769f5-cc6d-4d98-aeba-ef9b36021897",
+            "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/4606cfff-aa6c-4243-a74e-1e75bd388e40",
+            "contents": [
+              {
+                "alt": "Banner",
+                "href": "/",
+                "mobile": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/1c9fe42d-d677-4a31-8cce-444a94a7604c",
+                  "height": 460
+                },
+                "tablet": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/059d9553-e01a-4853-8cbf-8e8955d7c261",
+                  "height": 460
+                },
+                "desktop": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6260b9d2-9a14-4727-a967-e6b7ec540cff",
+                  "height": 470
+                }
+              }
+            ],
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            }
+          },
+          {
+            "__resolveType": "Product Shelf - 03"
+          },
+          {
+            "__resolveType": "site/sections/Images/BannerArray.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "banners": [
+              {
+                "alt": "Banner 1",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 2",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 3",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Content/RichText.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "40px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "64px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "text": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">THAMARA CAPELÃO</h1><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Moda Feminina</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Fundada em 1989 por <strong>Thamara Capelão</strong>, a marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade. Atemporalidade, exclusividade e qualidade: esses são princípios que estão presentes em cada produto, atendimento e conteúdo criado.</p>",
+            "containerWidth": 1014
+          },
+          {
+            "__resolveType": "Newsletter - padrão"
+          },
+          {
+            "__resolveType": "Footer - padrão"
+          },
+          {
+            "__resolveType": "Cookie Consent - Padrão"
+          }
+        ]
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "site/sections/SEO/PageSEO.tsx",
+            "structuredData": null,
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/9c982f00-ef34-40fa-b995-9c2f909f5f23",
+            "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/c0d0f92c-7f5f-4659-92ec-e6eccc8bc2a1",
+            "description": "A marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade.",
+            "title": "Thamara Capelão | Moda Feminina",
+            "titleTemplate": "Thamara Capelão | Moda Feminina"
+          },
+          {
+            "__resolveType": "Header - 01"
+          },
+          {
+            "__resolveType": "Carousel - 01"
+          },
+          {
+            "__resolveType": "Benefits - padrão"
+          },
+          {
+            "__resolveType": "Product Shelf - 01"
+          },
+          {
+            "__resolveType": "site/sections/Content/Hero.tsx",
+            "cta": {
+              "0": {
+                "href": "/teste",
+                "text": "teste",
+                "variant": "Reverse"
+              },
+              "1": {
+                "href": "/teste2",
+                "text": "teste-2",
+                "variant": "Reverse"
+              },
+              "href": "/hero",
+              "text": "SHOP NOW",
+              "invertTextColor": false
+            },
+            "image": {
+              "0": "h",
+              "1": "t",
+              "2": "t",
+              "3": "p",
+              "4": "s",
+              "5": ":",
+              "6": "/",
+              "7": "/",
+              "8": "o",
+              "9": "z",
+              "10": "k",
+              "11": "s",
+              "12": "g",
+              "13": "d",
+              "14": "m",
+              "15": "y",
+              "16": "r",
+              "17": "q",
+              "18": "c",
+              "19": "x",
+              "20": "c",
+              "21": "w",
+              "22": "h",
+              "23": "n",
+              "24": "b",
+              "25": "e",
+              "26": "p",
+              "27": "g",
+              "28": ".",
+              "29": "s",
+              "30": "u",
+              "31": "p",
+              "32": "a",
+              "33": "b",
+              "34": "a",
+              "35": "s",
+              "36": "e",
+              "37": ".",
+              "38": "c",
+              "39": "o",
+              "40": "/",
+              "41": "s",
+              "42": "t",
+              "43": "o",
+              "44": "r",
+              "45": "a",
+              "46": "g",
+              "47": "e",
+              "48": "/",
+              "49": "v",
+              "50": "1",
+              "51": "/",
+              "52": "o",
+              "53": "b",
+              "54": "j",
+              "55": "e",
+              "56": "c",
+              "57": "t",
+              "58": "/",
+              "59": "p",
+              "60": "u",
+              "61": "b",
+              "62": "l",
+              "63": "i",
+              "64": "c",
+              "65": "/",
+              "66": "a",
+              "67": "s",
+              "68": "s",
+              "69": "e",
+              "70": "t",
+              "71": "s",
+              "72": "/",
+              "73": "4",
+              "74": "4",
+              "75": "0",
+              "76": "3",
+              "77": "/",
+              "78": "6",
+              "79": "5",
+              "80": "d",
+              "81": "c",
+              "82": "f",
+              "83": "e",
+              "84": "6",
+              "85": "0",
+              "86": "-",
+              "87": "d",
+              "88": "2",
+              "89": "5",
+              "90": "c",
+              "91": "-",
+              "92": "4",
+              "93": "0",
+              "94": "6",
+              "95": "e",
+              "96": "-",
+              "97": "a",
+              "98": "c",
+              "99": "7",
+              "100": "5",
+              "101": "-",
+              "102": "c",
+              "103": "1",
+              "104": "8",
+              "105": "2",
+              "106": "e",
+              "107": "0",
+              "108": "3",
+              "109": "2",
+              "110": "9",
+              "111": "b",
+              "112": "4",
+              "113": "8",
+              "alt": "Image",
+              "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f798b1c2-f02e-4d15-8ce8-eadd1a9c30ef",
+              "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/7cb942d7-14c1-4db3-96d1-fe9f73bb3271"
+            },
+            "title": "<h2><strong>VERÃO</strong> <strong>2024</strong></h2>",
+            "placement": "right",
+            "description": "Forem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. ",
+            "mobileImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/70ce0d06-eb49-407a-809d-cd60bef3a01a",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            }
+          },
+          {
+            "__resolveType": "Product Shelf - 02"
+          },
+          {
+            "__resolveType": "site/sections/Images/FullBanner.tsx",
+            "alt": "Banner de ponto a ponta",
+            "lcp": false,
+            "href": "/a",
+            "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/2be769f5-cc6d-4d98-aeba-ef9b36021897",
+            "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/4606cfff-aa6c-4243-a74e-1e75bd388e40",
+            "contents": [
+              {
+                "alt": "Banner",
+                "href": "/",
+                "mobile": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/1c9fe42d-d677-4a31-8cce-444a94a7604c",
+                  "height": 460
+                },
+                "tablet": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/059d9553-e01a-4853-8cbf-8e8955d7c261",
+                  "height": 460
+                },
+                "desktop": {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6260b9d2-9a14-4727-a967-e6b7ec540cff",
+                  "height": 470
+                }
+              }
+            ],
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            }
+          },
+          {
+            "__resolveType": "Product Shelf - 03"
+          },
+          {
+            "__resolveType": "site/sections/Images/BannerArray.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "0px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "0px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "banners": [
+              {
+                "alt": "Banner 1",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 2",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              },
+              {
+                "alt": "Banner 3",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+                "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+                "href": "a"
+              }
+            ]
+          },
+          {
+            "__resolveType": "site/sections/Content/RichText.tsx",
+            "sectionProps": {
+              "layout": {
+                "mobile": {
+                  "marginTop": "40px",
+                  "marginBottom": "40px"
+                },
+                "desktop": {
+                  "marginTop": "64px",
+                  "marginBottom": "64px"
+                },
+                "marginTop": "64px"
+              }
+            },
+            "text": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">THAMARA CAPELÃO</h1><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Moda Feminina</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Fundada em 1989 por <strong>Thamara Capelão</strong>, a marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade. Atemporalidade, exclusividade e qualidade: esses são princípios que estão presentes em cada produto, atendimento e conteúdo criado.</p>",
+            "containerWidth": 1014
+          },
+          {
+            "__resolveType": "Newsletter - padrão"
+          },
+          {
+            "__resolveType": "Footer - padrão"
+          },
+          {
+            "__resolveType": "Cookie Consent - Padrão"
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+<<<<<<< HEAD:.deco-wake/blocks/pages-Verao-528130.json
+    },
+    {
+      "__resolveType": "Product Shelf Tabbed - 01"
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerArray.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "banners": [
+        {
+          "alt": "Banner 1",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 2",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 3",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "40px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "64px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "text": "<h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">THAMARA CAPELÃO</h1><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Moda Feminina</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Fundada em 1989 por <strong>Thamara Capelão</strong>, a marca que leva o nome da diretora criativa é reconhecida pela riqueza dos detalhes de cada criação e homenagens fortes à feminilidade. Atemporalidade, exclusividade e qualidade: esses são princípios que estão presentes em cada produto, atendimento e conteúdo criado.</p>",
+      "containerWidth": 1014
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    },
+    {
+      "__resolveType": "Cookie Consent - Padrão"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
+=======
+    ]
+  },
+  "__resolveType": "website/pages/Page.tsx",
+  "unindexedDomain": false
+}
+>>>>>>> fbeb4b04b6f72baec60632b9ce87fd376bef85ba:.deco/blocks/pages-Home%2520Copy-935953.json

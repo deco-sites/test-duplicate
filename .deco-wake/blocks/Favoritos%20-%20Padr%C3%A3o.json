@@ -1,0 +1,41 @@
+{
+  "__resolveType": "site/sections/Product/Wishlist.tsx",
+  "page": {
+    "__resolveType": "site/loaders/wishlist/customWakeWishlist.ts",
+    "limit": 50,
+    "operation": "AND",
+    "sort": "NAME:ASC",
+    "pageOffset": 1
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "32px",
+        "marginBottom": "40px"
+      },
+      "desktop": {
+        "marginTop": "32px",
+        "marginBottom": "64px"
+      }
+    }
+  },
+  "notFoundProps": {},
+  "notFound": {
+    "__resolveType": "Busca Vazia"
+  },
+  "productName": "concat",
+  "products": {
+    "@type": "ProductListingPage",
+    "breadcrumb": {
+      "@type": "BreadcrumbList"
+    },
+    "filters": [],
+    "products": [],
+    "pageInfo": {
+      "pageTypes": []
+    },
+    "sortOptions": [],
+    "__resolveType": "site/loaders/wishlist/customWakeWishlist.ts"
+  },
+  "name": "concat"
+}

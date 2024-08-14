@@ -1,0 +1,113 @@
+{
+  "name": "black-friday",
+  "path": "/black-friday",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "structuredData": null,
+      "title": "Black Friday"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerArray.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "banners": [
+        {
+          "alt": "Banner 1",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/373042a3-807f-4938-99f8-70dcced3798a",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 2",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/40224c20-c9db-4032-bce9-08219774c34a",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        },
+        {
+          "alt": "Banner 3",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/0d3e3d31-88f4-4381-b426-cd3431abec1c",
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f9bbd602-a1bb-474e-93d4-8d64bb5f5f14",
+          "href": "a"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Product Shelf - 05"
+    },
+    {
+      "__resolveType": "site/sections/Images/FullBanner.tsx",
+      "alt": "Banner de ponto a ponta",
+      "lcp": false,
+      "href": "/a",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/2be769f5-cc6d-4d98-aeba-ef9b36021897",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/4606cfff-aa6c-4243-a74e-1e75bd388e40",
+      "contents": [
+        {
+          "alt": "Banner",
+          "href": "/",
+          "mobile": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f121faa4-bf46-45a0-a969-5b34578caabf",
+            "height": 460
+          },
+          "desktop": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f96bb3a4-828e-46ba-abb4-dcddba6b90b0",
+            "height": 470
+          }
+        }
+      ],
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/RichText.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "40px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "marginTop": "64px"
+        }
+      },
+      "text": "<h1 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">Fast Layout</h1><h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">Subititulo Fast Layout</h2><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Na tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis acaliquam cursus. um dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum vestibulum velit. Seus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. sto euismod vitae. Aenean non aliquam velit. Sed eu turp aliquam cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Nam tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis <br>aliquam cursus.</p>",
+      "containerWidth": 1014
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

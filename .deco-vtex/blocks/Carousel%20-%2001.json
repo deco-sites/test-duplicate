@@ -1,0 +1,40 @@
+{
+  "dots": true,
+  "arrows": true,
+  "images": [
+    {
+      "alt": "/feminino",
+      "href": "/",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/84e1057d-4607-4678-a66c-b1ecb5b2091b",
+      "tablet": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/b29c0ad0-8252-4173-8230-afe5310386b6",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/75d8fd50-b1a8-4718-9804-15bf9302428c",
+      "ga4": {
+        "items": []
+      }
+    },
+    {
+      "alt": "/feminino",
+      "href": "/",
+      "tablet": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/6b782c96-2691-4f29-91d9-f98f9ca9a50f",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/80e80a25-5060-450d-a616-c3bbb39c54bd",
+      "ga4": {
+        "items": []
+      },
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/1db0af4d-27f5-4b04-b13b-34f9dd30e880"
+    }
+  ],
+  "preload": true,
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Images/Carousel.tsx"
+}

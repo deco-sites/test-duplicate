@@ -1,0 +1,24 @@
+{
+  "seals": [
+    {
+      "name": "New",
+      "label": "Novo",
+      "position": "image",
+      "background": "#a6a6a6",
+      "categoryId": "3"
+    },
+    {
+      "label": "Verão",
+      "position": "info",
+      "background": "#BEBEBE",
+      "categoryId": "3"
+    },
+    {
+      "label": "Sale",
+      "position": "info",
+      "background": "#E9E9E9",
+      "categoryId": "3"
+    }
+  ],
+  "__resolveType": "site/loaders/Seals/seals.tsx"
+}

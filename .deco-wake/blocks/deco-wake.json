@@ -1,0 +1,16 @@
+{
+  "__resolveType": "site/apps/deco/wake.ts",
+  "storefrontToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "9ad93d0f42afd434846283b9c73e0c33ee5495bdc640531fb3cb23d70bc0683e1c25720da9d9f46aa748db629dbef894",
+    "name": "WAKE_STOREFRONT_TOKEN"
+  },
+  "platform": "wake",
+  "account": "nutrilatinaoficial",
+  "checkoutUrl": "https://checkout.nutrilatina.com.br",
+  "token": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "WAKE_TOKEN",
+    "encrypted": "3e64595a0aa1574ea75106287f0da7e4"
+  }
+}

@@ -1,0 +1,32 @@
+User-agent: * 
+
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:
+
+Disallow: /account/* 
+Disallow: /login/*
+Disallow: /logout/*
+Disallow: /checkout/*
+Disallow: /quick-view/* 
+Disallow: /espiar/*
+Disallow: /esqueci-minha-senha/*
+Disallow: /meu-cadastro/*
+Disallow: /gerenciar-enderecos/*
+Disallow: /checkPassword/*
+Disallow: /nova-senha/*
+Disallow: /meus-pedidos/*
+Disallow: /busca/*
+Disallow: /admin/*
+
+
+Allow: /.js$
+Allow: /.css$
+Allow: /files
+
+<<<<<<< HEAD
+Sitemap: https://www.thamaracapelao.com.br/sitemap.xml
+=======
+Sitemap: https://www.thamaracapelao.com.br/sitemap.xml
+>>>>>>> fbeb4b04b6f72baec60632b9ce87fd376bef85ba

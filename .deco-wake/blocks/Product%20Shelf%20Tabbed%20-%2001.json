@@ -1,0 +1,57 @@
+{
+  "name": "productGroup",
+  "tabs": [
+    {
+      "title": "Vitrine 1",
+      "products": {
+        "props": {
+          "sort": "price:desc",
+          "count": 10,
+          "query": " ",
+          "facets": "/apparel---accessories"
+        },
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "seeAllLink": "/vitrine-1"
+    },
+    {
+      "title": "Vitrine 2",
+      "products": {
+        "props": {
+          "sort": "price:asc",
+          "count": 10,
+          "query": " ",
+          "facets": "/home---decor/"
+        },
+        "__resolveType": "vtex/loaders/intelligentSearch/productList.ts"
+      },
+      "seeAllLink": "Vitrine-2"
+    }
+  ],
+  "title": "Titulo",
+  "sealsConfig": {
+    "__resolveType": "Selos"
+  },
+  "defer": "intersection",
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "40px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "64px",
+        "marginBottom": "0px"
+      },
+      "marginTop": "64px"
+    }
+  },
+  "__resolveType": "site/sections/Product/ProductShelfTabbed.tsx",
+  "layout": {
+    "numberOfSlides": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 5
+    }
+  }
+}

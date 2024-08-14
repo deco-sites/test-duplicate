@@ -1,0 +1,197 @@
+{
+  "logo": {
+    "alt": "Logo",
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/929a5010-0332-4cee-b2a8-e13c180dbc50",
+    "width": 214,
+    "height": 40
+  },
+  "sections": [
+    {
+      "@type": "html",
+      "title": "Atendimento",
+      "text": "<h4><strong>Fale Conosco:</strong></h4><p><a data-mce-href=\"tel+551123735471\" href=\"tel+551123735471\">+ 55 11 2373-5471</a></p><p><a href=\"mailto:contato@agenciaeplus.com.br\" target=\"_blank\" data-mce-href=\"mailto:contato@agenciaeplus.com.br\">contato@agenciaeplus.com.br</a></p><p><br data-mce-bogus=\"1\"></p><h4><strong>Horário de Atendimento:</strong></h4><p>Seg à Sex das 10h às 19h</p><p>Sábado das 09h às 13h</p>"
+    },
+    {
+      "@type": "text",
+      "title": "Institucional",
+      "textItems": [
+        {
+          "href": "/institucional/quem-somos",
+          "@type": "text",
+          "title": "Quem somos"
+        },
+        {
+          "href": "/institucional/politicas-de-pagamentos",
+          "@type": "text",
+          "title": "Políticas de Pagamentos"
+        },
+        {
+          "href": "/institucional/politica-de-troca-e-devolucao",
+          "@type": "text",
+          "title": "Política de Troca e Devolução"
+        },
+        {
+          "href": "/institucional/politica-de-fretes",
+          "@type": "text",
+          "title": "Política de Fretes"
+        },
+        {
+          "href": "/institucional/como-comprar",
+          "@type": "text",
+          "title": "Como Comprar"
+        }
+      ],
+      "colapseOnMobile": true
+    },
+    {
+      "@type": "text",
+      "title": "Ajuda e Suporte",
+      "textItems": [
+        {
+          "href": "/institucional/politica-de-privacidade",
+          "@type": "text",
+          "title": "Privacidade"
+        },
+        {
+          "href": "/conta/pedidos",
+          "@type": "text",
+          "title": "Meus Pedidos"
+        },
+        {
+          "href": "https://thamaracapelao.troque.app.br/",
+          "title": "Solicitar Troca ou Devolução",
+          "external": true
+        },
+        {
+          "@type": "text",
+          "title": "Minha conta",
+          "href": "/conta"
+        },
+        {
+          "title": "Fale Conosco",
+          "external": false,
+          "href": "/institucional/fale-conosco",
+          "@type": "text"
+        }
+      ],
+      "colapseOnMobile": true
+    },
+    {
+      "@type": "image",
+      "title": "Certificações",
+      "imageItems": [
+        {
+          "alt": "Let's Encrypt",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6251e427-4826-487f-aad2-fbcfa521100a",
+          "href": "https://letsencrypt.org/pt-br/",
+          "@type": "image",
+          "width": 51,
+          "height": 39,
+          "external": true
+        }
+      ]
+    },
+    {
+      "@type": "image",
+      "title": "Redes Sociais",
+      "imageItems": [
+        {
+          "alt": "Instagram",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/230b3601-c99c-403e-9ea7-ff899e912974",
+          "href": "https://www.instagram.com/agenciaeplus/",
+          "@type": "image",
+          "width": 32,
+          "height": 32,
+          "external": true
+        },
+        {
+          "alt": "Linkedin",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/9951cf62-7bcb-4bb7-a2b1-286ba7dc25ab",
+          "href": "https://br.linkedin.com/company/agenciaeplus",
+          "@type": "image",
+          "width": 32,
+          "height": 32,
+          "external": true
+        }
+      ]
+    }
+  ],
+  "copyRight": "<p>© 2024 - Agência e-Plus - todos os direitos reservados</p>",
+  "paymentFlags": [
+    {
+      "alt": "Mastercard",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/3948043a-869b-40e1-bb32-1ad0be379c81"
+    },
+    {
+      "alt": "Visa",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/b15cf225-1d45-4be4-8c1f-a1378c7271b3"
+    },
+    {
+      "alt": "elo",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/940a81cc-0540-40a5-ac67-29d4b5628432"
+    },
+    {
+      "alt": "hipercard",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/f4e1fce0-f875-4dad-8bc7-065817b3e9bd"
+    },
+    {
+      "alt": "American Express",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/36cadf23-f5b6-4042-8559-5427dc5d4f98"
+    },
+    {
+      "alt": "Diners Club",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/6ee36d30-059d-4615-8ee5-c46ee279abe7"
+    },
+    {
+      "alt": "Hiper",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/977400a7-5068-46d3-8c33-4ca6bd641fe0"
+    },
+    {
+      "alt": "PIX",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/32acb018-067b-4a9f-a959-ca665db431e4"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/dbb2c773-2f1e-4845-9fd8-a9373d6bf2ec",
+      "alt": "Boleto"
+    }
+  ],
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "2px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "2px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "footerLogos": [
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/c868a63a-8d04-4c13-9764-285ecad31873",
+      "href": "https://www.agenciaeplus.com.br/",
+      "external": true,
+      "width": 115,
+      "height": 21,
+      "alt": "Agência "
+    },
+    {
+      "href": "https://deco.cx/",
+      "external": true,
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/52215d2b-c31b-4ac5-8f03-a3f28aa9b9f8",
+      "width": 60,
+      "alt": "Deco",
+      "height": 40
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/ccdbce4a-3a02-4641-a954-8e93a238acf6",
+      "href": "https://wake.tech/wake-commerce/",
+      "external": true,
+      "alt": "Wake",
+      "width": 70,
+      "height": 20
+    }
+  ]
+}

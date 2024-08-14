@@ -1,0 +1,51 @@
+{
+  "name": "Search",
+  "path": "/s",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "noIndex": true,
+      "noFollow": true,
+      "description": "Não encontramos o resultado para a busca realizada",
+      "structuredData": {
+        "__resolveType": "PLP Loader"
+      }
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Category/BreadcrumbPLP.tsx",
+      "page": {
+        "__resolveType": "PLP Loader"
+      },
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "32px"
+          },
+          "desktop": {
+            "marginTop": "32px"
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "SearchResult - Padrão",
+      "layout": {
+        "columns": {
+          "mobile": 2,
+          "desktop": 4
+        },
+        "variant": "aside"
+      }
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

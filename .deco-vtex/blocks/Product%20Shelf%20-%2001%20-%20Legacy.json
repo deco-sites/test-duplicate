@@ -1,0 +1,31 @@
+{
+  "name": "productGroup",
+  "title": "Verão",
+  "layout": { "headerfontSize": "Large", "headerAlignment": "center" },
+  "products": {
+    "props": { "term": " ", "query": " ", "similars": false },
+    "__resolveType": "vtex/loaders/legacy/productList.ts"
+  },
+  "cardLayout": {
+    "hide": { "cta": true, "skuSelector": true },
+    "basics": {
+      "ctaText": "View more",
+      "oldPriceSize": "Normal",
+      "contentAlignment": "Center"
+    },
+    "onMouseOver": { "card": "None", "image": "Change image" },
+    "elementsPositions": {
+      "skuSelector": "Bottom",
+      "favoriteIcon": "Top right"
+    }
+  },
+  "description": "The best selection for you",
+  "sealsConfig": [],
+  "sectionProps": {
+    "layout": {
+      "mobile": { "marginTop": "40px", "marginBottom": "0px" },
+      "desktop": { "marginTop": "64px", "marginBottom": "0px" }
+    }
+  },
+  "__resolveType": "site/sections/Product/ProductShelf.tsx"
+}

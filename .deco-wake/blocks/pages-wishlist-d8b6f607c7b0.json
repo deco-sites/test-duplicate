@@ -1,0 +1,23 @@
+{
+  "name": "Wishlist",
+  "path": "/wishlist",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "structuredData": null,
+      "title": "Lista de desejos",
+      "noIndex": true,
+      "noFollow": true
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "Favoritos - Padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

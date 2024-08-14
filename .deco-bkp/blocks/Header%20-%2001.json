@@ -1,0 +1,401 @@
+{
+  "cart": {
+    "freeShippingObjectiveQuantity": 600
+  },
+  "logo": {
+    "alt": "Logo",
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10820/4f64d171-6123-4a4e-8ef7-edf29fb7e7fc",
+    "width": 214,
+    "height": 40
+  },
+  "alerts": [
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/400c182a-0abb-4d0c-a438-71ccbb878840",
+      "text": "Fale Conosco: (31) 98751-6565 | contato@agenciaeplus.com.br"
+    },
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/400c182a-0abb-4d0c-a438-71ccbb878840",
+      "text": "Lorem ipsum dolor sit amet qui consequatur"
+    }
+  ],
+  "navItems": [
+    {
+      "url": "/roupas",
+      "children": [
+        {
+          "url": "/roupas/vestidos",
+          "name": "Vestidos",
+          "children": []
+        },
+        {
+          "url": "/roupas/blusas",
+          "name": "Blusas",
+          "children": []
+        },
+        {
+          "url": "/roupas/calcas",
+          "name": "Calças",
+          "children": []
+        },
+        {
+          "url": "/masculino/bermudas",
+          "name": "Bermudas",
+          "children": []
+        },
+        {
+          "children": [],
+          "url": "/masculino/calcas",
+          "name": "Calças"
+        },
+        {
+          "children": [],
+          "url": "/masculino/casacos",
+          "name": "Casacos"
+        },
+        {
+          "children": [],
+          "url": "/masculino/ternos",
+          "name": "Ternos"
+        },
+        {
+          "children": [],
+          "url": "/masculino/sapatos",
+          "name": "Sapatos"
+        },
+        {
+          "children": [],
+          "url": "/masculino/gravatas",
+          "name": "Gravatas"
+        },
+        {
+          "children": [],
+          "url": "/masculino/meias",
+          "name": "Meias"
+        },
+        {
+          "children": [],
+          "url": "/masculino/cuecas",
+          "name": "Cuecas"
+        },
+        {
+          "children": [],
+          "url": "/masculino/pulseiras",
+          "name": "Pulseiras"
+        },
+        {
+          "children": [],
+          "url": "/masculino/bones",
+          "name": "Bonés"
+        },
+        {
+          "children": [],
+          "url": "/masculino/jaquetas",
+          "name": "Jaquetas"
+        },
+        {
+          "children": [],
+          "url": "/masculino/lencos",
+          "name": "Lenços"
+        },
+        {
+          "children": [],
+          "url": "/masculino/chapeus",
+          "name": "Chapéus"
+        }
+      ],
+      "name": "NEW IN"
+    },
+    {
+      "url": "/feminino",
+      "name": "Feminino",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/feminino/jeans",
+          "name": "Jeans",
+          "children": []
+        },
+        {
+          "url": "/feminino/camisetas",
+          "name": "Camisetas",
+          "children": []
+        },
+        {
+          "url": "/feminino/vestidos",
+          "name": "Vestidos",
+          "children": []
+        },
+        {
+          "url": "/feminino/saias",
+          "name": "Saias",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "/infantil",
+      "name": "Infantil",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/infantil/roupas",
+          "name": "Roupas",
+          "children": []
+        },
+        {
+          "url": "/infantil/calcados",
+          "name": "Calçados",
+          "children": []
+        },
+        {
+          "url": "/infantil/acessorios",
+          "name": "Acessórios",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "/acessorios",
+      "name": "Acessorios",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/acessorios/bolsas",
+          "name": "Bolsas",
+          "children": []
+        },
+        {
+          "url": "/acessorios/cintos",
+          "name": "Cintos",
+          "children": []
+        },
+        {
+          "url": "/acessorios/chapeus",
+          "name": "Chapéus",
+          "children": []
+        },
+        {
+          "url": "/acessorios/oculos-de-sol",
+          "name": "Óculos de sol",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "products": [],
+  "searchbar": {
+    "name": "q",
+    "action": "/s",
+    "loader": {
+      "data": {
+        "__resolveType": "wake/loaders/suggestion.ts"
+      },
+      "__resolveType": "resolved"
+    },
+    "placeholder": "Buscar produto"
+  },
+  "departments": [
+    {
+      "url": "/feminino",
+      "name": "Feminino",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/feminino/jeans",
+          "name": "Jeans",
+          "children": []
+        },
+        {
+          "url": "/feminino/camisetas",
+          "name": "Camisetas",
+          "children": []
+        },
+        {
+          "url": "/feminino/vestidos",
+          "name": "Vestidos",
+          "children": []
+        },
+        {
+          "url": "/feminino/saias",
+          "name": "Saias",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "/masculino",
+      "name": "Masculino",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/masculino/jeans",
+          "name": "Jeans",
+          "children": [
+            {
+              "url": "/infantil/roupas",
+              "name": "Roupas"
+            },
+            {
+              "url": "/infantil/calcados",
+              "name": "Calçados"
+            },
+            {
+              "url": "/infantil/acessorios",
+              "name": "Acessórios"
+            }
+          ]
+        },
+        {
+          "url": "/masculino/camisetas",
+          "name": "Camisetas",
+          "children": []
+        },
+        {
+          "url": "/masculino/camisas",
+          "name": "Camisas",
+          "children": []
+        },
+        {
+          "url": "/masculino/bermudas",
+          "name": "Bermudas",
+          "children": []
+        },
+        {
+          "url": "/masculino/calcas",
+          "name": "Calças",
+          "children": []
+        },
+        {
+          "url": "/masculino/casacos",
+          "name": "Casacos",
+          "children": []
+        },
+        {
+          "url": "/masculino/ternos",
+          "name": "Ternos",
+          "children": []
+        },
+        {
+          "url": "/masculino/sapatos",
+          "name": "Sapatos",
+          "children": []
+        },
+        {
+          "url": "/masculino/gravatas",
+          "name": "Gravatas",
+          "children": []
+        },
+        {
+          "url": "/masculino/meias",
+          "name": "Meias",
+          "children": []
+        },
+        {
+          "url": "/masculino/cuecas",
+          "name": "Cuecas",
+          "children": []
+        },
+        {
+          "url": "/masculino/pulseiras",
+          "name": "Pulseiras",
+          "children": []
+        },
+        {
+          "url": "/masculino/bones",
+          "name": "Bonés",
+          "children": []
+        },
+        {
+          "url": "/masculino/jaquetas",
+          "name": "Jaquetas",
+          "children": []
+        },
+        {
+          "url": "/masculino/lencos",
+          "name": "Lenços",
+          "children": []
+        },
+        {
+          "url": "/masculino/chapeus",
+          "name": "Chapéus",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "/infantil",
+      "name": "Infantil",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/infantil/roupas",
+          "name": "Roupas",
+          "children": []
+        },
+        {
+          "url": "/infantil/calcados",
+          "name": "Calçados",
+          "children": []
+        },
+        {
+          "url": "/infantil/acessorios",
+          "name": "Acessórios",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "/acessorios",
+      "name": "Acessorios",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/5ee5d16a-08f0-4b17-a813-d18fca96924f",
+      "children": [
+        {
+          "url": "/acessorios/bolsas",
+          "name": "Bolsas",
+          "children": []
+        },
+        {
+          "url": "/acessorios/cintos",
+          "name": "Cintos",
+          "children": []
+        },
+        {
+          "url": "/acessorios/chapeus",
+          "name": "Chapéus",
+          "children": []
+        },
+        {
+          "url": "/acessorios/oculos-de-sol",
+          "name": "Óculos de sol",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "suggestions": {
+    "products": [],
+    "searches": []
+  },
+  "logoPosition": "center",
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "alertsDesktopWidth": 672,
+  "minicartConfig": {
+    "showCoupon": true,
+    "showSellerCode": false,
+    "showShippingSimulator": true
+  },
+  "whatsappLink": "https://wa.me/5531987516565",
+  "freeShippingMinimunValue": 0
+}

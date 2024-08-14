@@ -1,0 +1,30 @@
+{
+  "data": {
+    "sort": "NAME:ASC",
+    "__resolveType": "wake/loaders/productListingPage.ts",
+    "limit": 12,
+    "operation": "AND",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    }
+  },
+  "extensions": [],
+  "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "__resolveType": "wake/loaders/productDetailsPage.ts",
+  "slug": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "slug"
+  },
+  "buyTogether": true
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Take a look at our benefits",
+  "benefits": [
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/264dcca7-2da8-47c1-a204-5f1f2bae4dd7",
+      "label": "10% OFF no boleto",
+      "description": "Shop online with no additional fees!"
+    },
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/fefca627-3bbc-48e9-8f38-04d4d856b5e6",
+      "label": "Retire na loja física",
+      "description": "Instant assistance anytime"
+    },
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/ea237d55-862f-4c2d-aba5-51c9fa37e466",
+      "label": "Frete grátis acima de R$99,99*",
+      "description": "Discount for new customers"
+    },
+    {
+      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10746/642fb988-8a22-4d96-b449-f9fc0934387d",
+      "label": "Variedades de produto",
+      "description": "Easy and Convenient Return Policy"
+    }
+  ],
+  "__resolveType": "site/sections/Content/Benefits.tsx",
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "layout": {
+    "numberOfSliders": {
+      "mobile": 1,
+      "tablet": 1,
+      "desktop": 1
+    },
+    "showArrows": false
+  }
+}

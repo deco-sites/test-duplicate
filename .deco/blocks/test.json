@@ -1,0 +1,25 @@
+{
+  "__resolveType": "wake/loaders/productList.ts",
+  "first": 12,
+  "sortDirection": "ASC",
+  "sortKey": "DISCOUNT",
+  "filters": {
+    "attributes": {
+      "id": [],
+      "name": [],
+      "type": [],
+      "value": []
+    },
+    "brandId": [],
+    "categoryId": [],
+    "ean": [],
+    "productId": [],
+    "productVariantId": [],
+    "sameParentAs": [],
+    "sku": [],
+    "stocks": {
+      "dcId": [],
+      "dcName": []
+    }
+  }
+}

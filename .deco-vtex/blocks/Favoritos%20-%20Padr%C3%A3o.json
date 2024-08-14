@@ -1,0 +1,24 @@
+{
+  "__resolveType": "site/sections/Product/Wishlist.tsx",
+  "page": {
+    "count": 12,
+    "__resolveType": "vtex/loaders/product/wishlist.ts"
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "32px",
+        "marginBottom": "40px"
+      },
+      "desktop": {
+        "marginTop": "32px",
+        "marginBottom": "64px"
+      }
+    }
+  },
+  "notFoundProps": {},
+  "notFound": {
+    "__resolveType": "Busca Vazia"
+  },
+  "productName": "concat"
+}

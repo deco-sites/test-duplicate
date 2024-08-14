@@ -1,0 +1,80 @@
+{
+  "name": "product",
+  "title": "Você pode se interessar por esses produtos",
+  "layout": {
+    "headerfontSize": "Large",
+    "headerAlignment": "center",
+    "numberOfSliders": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 5
+    }
+  },
+  "products": {
+    "__resolveType": "wake/loaders/productList.ts",
+    "sortDirection": "ASC",
+    "sortKey": "DISCOUNT",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    },
+    "first": 8
+  },
+  "cardLayout": {
+    "hide": {
+      "cta": true,
+      "allPrices": true,
+      "productName": true,
+      "skuSelector": true,
+      "installments": true,
+      "productDescription": true
+    },
+    "basics": {
+      "ctaText": "View more",
+      "oldPriceSize": "Normal",
+      "contentAlignment": "Center"
+    },
+    "onMouseOver": {
+      "card": "None",
+      "image": "Change image"
+    },
+    "elementsPositions": {
+      "skuSelector": "Bottom",
+      "favoriteIcon": "Top right"
+    }
+  },
+  "description": "The best selection for you",
+  "sealsConfig": {
+    "__resolveType": "Selos"
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "40px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "64px",
+        "marginBottom": "0px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "defer": "intersection"
+}

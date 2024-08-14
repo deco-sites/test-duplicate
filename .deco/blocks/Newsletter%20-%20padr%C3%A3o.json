@@ -1,0 +1,46 @@
+{
+  "form": {
+    "name": {
+      "name": "name",
+      "label": "Nome",
+      "placeholder": "Digite seu nome"
+    },
+    "email": {
+      "name": "email",
+      "label": "E-mail",
+      "placeholder": "Digite seu e-mail"
+    },
+    "inputs": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Nome",
+        "placeholder": "Digite seu nome"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Email",
+        "placeholder": "Digite o seu e-mail"
+      }
+    ],
+    "buttonText": "Assinar",
+    "termsOfUse": "<p>Ao me registrar, eu aceito os&nbsp;<a href=\"../../../institutional/termos-de-uso\" data-mce-href=\"../../../institutional/termos-de-uso\">Termos de Uso</a> da loja.</p>"
+  },
+  "title": "Assine nossa newsletter",
+  "description": "Fique por dentro das nossas novidades e promoções\n",
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "marginTop": "64px"
+    }
+  },
+  "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
+}

@@ -1,0 +1,8 @@
+{
+  "redirect": {
+    "from": "/account#/orders/",
+    "to": "/conta/pedidos",
+    "type": "temporary"
+  },
+  "__resolveType": "website/loaders/redirect.ts"
+}

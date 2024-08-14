@@ -1,0 +1,21 @@
+{
+  "name": "Conta - Pedidos",
+  "path": "/conta/pedidos",
+  "sections": [
+    {
+      "__resolveType": "SEO"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "src": "/account#/orders",
+      "__resolveType": "site/sections/Iframe.tsx",
+      "height": 600
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

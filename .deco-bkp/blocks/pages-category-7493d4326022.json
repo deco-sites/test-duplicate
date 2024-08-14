@@ -1,0 +1,68 @@
+{
+  "name": "Category",
+  "path": "/*",
+  "default": {
+    "possiblePaths": []
+  },
+  "sections": [
+    {
+      "__resolveType": "site/sections/SEO/PageSEO.tsx",
+      "titleTemplate": "%s | Thamara Capelão",
+      "structuredData": {
+        "__resolveType": "PLP Loader"
+      }
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "site/sections/Images/FullBanner.tsx",
+      "alt": "Banner de categoria",
+      "lcp": true,
+      "href": "/",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/bd7a9453-909b-4de7-818a-4a7ce342d05c",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/1c18b33a-17ff-46fc-a93f-3bb48357ee76",
+      "contents": []
+    },
+    {
+      "__resolveType": "Breadcrumb"
+    },
+    {
+      "__resolveType": "SearchResult - Padrão"
+    },
+    {
+      "__resolveType": "site/sections/Category/SeoText.tsx",
+      "sectionProps": {
+        "layout": {
+          "mobile": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          },
+          "desktop": {
+            "marginTop": "64px",
+            "marginBottom": "0px"
+          }
+        }
+      },
+      "contents": [
+        {
+          "rule": {
+            "__resolveType": "site/matchers/canonical.ts",
+            "matcher": "/e-plus---departamento-teste"
+          },
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Na tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit.&nbsp;</p><p>Sed eu turpis acaliquam cursus. um dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum &nbsp;vestibulum velit. Seus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. sto euismod vitae. Aenean non aliquam velit. Sed eu turp aliquam cursus. &nbsp;</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam nibh, tempus vel varius egestas, interdum eget purus. Nam tempor ligula nisi, sed vestibulum justo euismod vitae. Aenean non aliquam velit. Sed eu turpis&nbsp;<br>aliquam cursus.&nbsp;</p>",
+          "label": "Departamento teste",
+          "title": "Departamento teste",
+          "subtitle": "Departamento teste"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

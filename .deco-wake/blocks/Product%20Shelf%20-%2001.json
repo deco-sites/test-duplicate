@@ -1,0 +1,80 @@
+{
+  "name": "productGroup",
+  "layout": {
+    "headerfontSize": "Normal",
+    "numberOfSlides": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 5
+    },
+    "headerAlignment": "center",
+    "numberOfSliders": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 4
+    }
+  },
+  "products": {
+    "__resolveType": "wake/loaders/productList.ts",
+    "first": 12,
+    "sortDirection": "ASC",
+    "sortKey": "DISCOUNT",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {},
+      "mainVariant": true
+    },
+    "getVariations": false
+  },
+  "cardLayout": {
+    "hide": {},
+    "basics": {
+      "oldPriceSize": "Small",
+      "contentAlignment": "Left"
+    },
+    "onMouseOver": {
+      "card": "None",
+      "image": "Change image"
+    },
+    "elementsPositions": {
+      "skuSelector": "Top",
+      "favoriteIcon": "Top right"
+    }
+  },
+  "description": "The best selection for you",
+  "sealsConfig": {
+    "__resolveType": "Selos"
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "40px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "64px",
+        "marginBottom": "0px"
+      }
+    },
+    "deferMode": "intersection"
+  },
+  "__resolveType": "site/sections/Product/ProductShelf.tsx",
+  "title": "VESTIDOS",
+  "defer": "intersection"
+}

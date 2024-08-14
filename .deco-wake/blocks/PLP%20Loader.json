@@ -1,0 +1,17 @@
+{
+  "data": {
+    "sort": "price:desc",
+    "fuzzy": "automatic",
+    "pageOffset": 1,
+    "__resolveType": "vtex/loaders/intelligentSearch/productListingPage.ts",
+    "selectedFacets": [],
+    "count": 20
+  },
+  "extensions": [
+    {
+      "reviews": true,
+      "__resolveType": "vtex/loaders/product/extensions/listingPage.ts"
+    }
+  ],
+  "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
+}

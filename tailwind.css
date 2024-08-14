@@ -1,0 +1,235 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Allow changing font family via CMS */
+  html {
+    font-family: var(--font-family);
+  }
+
+  .diagonal-cross {
+    position: relative;
+  }
+
+  .diagonal-cross::after {
+    content: "";
+    display: block;
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(
+      to top right,
+      transparent calc(50% - 1px),
+      oklch(var(--primary-500)),
+      transparent calc(50% + 1px)
+    );
+  }
+
+  .diagonal-cross-inverted::after {
+    content: "";
+    display: block;
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(
+      to top right,
+      transparent calc(50% - 1px),
+      oklch(var(--b1)),
+      transparent calc(50% + 1px)
+    );
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Evita scroll horizontal em mobile */
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  * {
+  }
+
+  input {
+    border-radius: 0;
+  }
+
+  input:focus {
+    outline: none !important;
+  }
+
+  mark {
+    @apply bg-accent text-accent-content;
+  }
+
+  /** Remove default styles from input[type=number] */
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Disable scroll once drawer/modal is openned */
+  body:has(.drawer-toggle:checked),
+  body:has(.modal-toggle:checked) {
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .container {
+    @apply px-4;
+  }
+
+  .btn-outline.btn-primary:hover {
+    @apply !bg-primary !border-primary !text-primary-content;
+  }
+}
+
+@layer components {
+  .features {
+    @apply flex items-center justify-center gap-6 flex-wrap;
+    @apply relative max-w-[1280px] mx-auto;
+  }
+
+  .feature-card {
+    @apply w-[380px] max-w-[380px] lg:h-[380px] bg-[#F4F4F4] rounded-3xl;
+    @apply border-l border-transparent duration-200 whitespace-pre-line text-center;
+    @apply flex flex-col items-center justify-start gap-8 py-10 px-8 lg:px-12;
+  }
+
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  /* Custom scrollbar */
+  .scrollbar::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    @apply bg-neutral-300;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-neutral-400;
+  }
+
+  .btn-ghost {
+    @apply hover:bg-transparent disabled:bg-transparent;
+  }
+
+  .collapse-title {
+    @apply min-h-14;
+  }
+
+  .container {
+    @apply px-5;
+    max-width: 1280px !important;
+  }
+
+  .product-aspect {
+    aspect-ratio: var(--product-aspect-ratio);
+  }
+
+  .product-fit {
+    object-fit: var(--product-fit);
+  }
+}
+
+.group:disabled .group-disabled\:animate-progress {
+  animation: progress-frame ease normal;
+}
+
+@keyframes progress-frame {
+  0% {
+    --dot-progress: 0%;
+  }
+
+  to {
+    --dot-progress: 100%;
+  }
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  pointer-events: all;
+  width: 15px;
+  height: 15px;
+  background-color: oklch(var(--primary-500));
+  border-radius: 50%;
+  /* box-shadow: 0 0 0 1px #c6c6c6; */
+  cursor: pointer;
+}
+
+input[type="range"]::-moz-range-thumb {
+  -webkit-appearance: none;
+  pointer-events: all;
+  width: 15px;
+  height: 15px;
+  background-color: oklch(var(--primary-500));
+  border-radius: 50%;
+  /* box-shadow: 0 0 0 1px #c6c6c6; */
+  cursor: pointer;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+  /* background: #f7f7f7; */
+}
+
+input[type="range"]::-webkit-slider-thumb:active {
+  /* box-shadow: inset 0 0 3px #387bbe, 0 0 9px #387bbe;
+  -webkit-box-shadow: inset 0 0 3px #387bbe, 0 0 9px #387bbe; */
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 5px;
+  width: 100%;
+  position: absolute;
+  background-color: var(--primary-500);
+  pointer-events: none;
+}
+
+input[type="text"]:hover,
+input[type="text"]:focus,
+input[type="email"]:hover,
+input[type="email"]:focus {
+  @apply border-primary-500 transition-all;
+}
+
+input[type="email"]:hover {
+  @apply border-primary-500 transition-all;
+}
+
+textarea:hover {
+  @apply border-primary-500 transition-all;
+}
+
+#fromSlider {
+  height: 0;
+  z-index: 1;
+}
+
+/* Fix Safari issue related to <summary> / <details> arrow */
+details > summary::-webkit-details-marker,
+details > summary::marker {
+  display: none;
+}

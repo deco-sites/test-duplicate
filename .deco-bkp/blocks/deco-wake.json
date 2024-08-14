@@ -1,0 +1,16 @@
+{
+  "__resolveType": "site/apps/deco/wake.ts",
+  "storefrontToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "encrypted": "24fb8b5008c365d7d682aa36ae81b5bf05e8c47867fc6ac619fb9b36c95342cf381b90cc20526af4b04ca9604190b93f",
+    "name": "WAKE_STOREFRONT_TOKEN"
+  },
+  "platform": "wake",
+  "account": "monpar",
+  "checkoutUrl": "https://monpar.checkout.fbits.store/",
+  "token": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "WAKE_TOKEN",
+    "encrypted": "1e46fa7d355e57c59beb088804548d16"
+  }
+}

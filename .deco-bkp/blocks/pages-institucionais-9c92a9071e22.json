@@ -1,0 +1,147 @@
+{
+  "name": "Institucionais",
+  "path": "/institucional/:slug",
+  "sections": [
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "contents": [
+        {
+          "body": [
+            {
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "title": "Quem somos",
+              "description": "Quem somos"
+            },
+            {
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx",
+              "title": "Quem Somos",
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>QUEM SOMOS</strong></span><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong></strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong><br data-mce-bogus=\"1\"></strong></span></p><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Penatibus curabitur ornare sit morbi senectus. Pretium montes per semper torquent, tristique auctor imperdiet. Congue lacus mollis etiam dis luctus sagittis amet. Ornare ridiculus morbi accumsan lorem orci lacus. Nam dui lobortis sodales suspendisse placerat.</p><p>Dis amet gravida ultricies nisi viverra. Scelerisque ante eleifend habitant euismod nisl morbi magnis. Aenean tempus vitae dis morbi vulputate. Nibh lobortis netus risus egestas natoque integer faucibus. Lorem laoreet tempor faucibus elit; facilisis leo inceptos. Quisque volutpat eget id pulvinar egestas varius odio. Fringilla mauris scelerisque ullamcorper lectus massa inceptos conubia. Taciti vehicula convallis vehicula congue potenti.</p><p>Proin ullamcorper non erat, risus ligula mollis sollicitudin quisque tellus. Adipiscing mauris vulputate vestibulum dictum nisl imperdiet. Platea tellus mollis nascetur, efficitur magna habitant vestibulum. Odio sodales curabitur non volutpat sociosqu placerat faucibus. Bibendum porttitor mus torquent mattis duis sit scelerisque feugiat. Adipiscing viverra et sapien luctus parturient eget. Sapien sem potenti himenaeos egestas fermentum non.</p><p>Nisl id aliquet ante sagittis sollicitudin sem phasellus. Bibendum penatibus eget tempus gravida sapien. Habitasse erat nam sed semper massa ac nisl morbi. Imperdiet felis laoreet hendrerit posuere amet libero massa et ultrices. Interdum sem fames ultricies tortor amet bibendum dapibus ac porta! Nunc ridiculus etiam ut suspendisse sagittis. Tincidunt blandit nam et malesuada consequat magna consectetur. Faucibus penatibus viverra efficitur dolor facilisis aptent maximus ultrices.</p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/c19e7be8-a16a-4d5d-ad47-fc186cff84e2"
+              }
+            }
+          ],
+          "slug": "quem-somos",
+          "title": "Quem Somos"
+        },
+        {
+          "body": [
+            {
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Políticas de Pagamentos",
+              "title": "Políticas de Pagamentos"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICAS DE PAGAMENTO</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Penatibus curabitur ornare sit morbi senectus. Pretium montes per semper torquent, tristique auctor imperdiet. Congue lacus mollis etiam dis luctus sagittis amet. Ornare ridiculus morbi accumsan lorem orci lacus. Nam dui lobortis sodales suspendisse placerat.</p><p>Dis amet gravida ultricies nisi viverra. Scelerisque ante eleifend habitant euismod nisl morbi magnis. Aenean tempus vitae dis morbi vulputate. Nibh lobortis netus risus egestas natoque integer faucibus. Lorem laoreet tempor faucibus elit; facilisis leo inceptos. Quisque volutpat eget id pulvinar egestas varius odio. Fringilla mauris scelerisque ullamcorper lectus massa inceptos conubia. Taciti vehicula convallis vehicula congue potenti.</p><p>Proin ullamcorper non erat, risus ligula mollis sollicitudin quisque tellus. Adipiscing mauris vulputate vestibulum dictum nisl imperdiet. Platea tellus mollis nascetur, efficitur magna habitant vestibulum. Odio sodales curabitur non volutpat sociosqu placerat faucibus. Bibendum porttitor mus torquent mattis duis sit scelerisque feugiat. Adipiscing viverra et sapien luctus parturient eget. Sapien sem potenti himenaeos egestas fermentum non.</p><p>Nisl id aliquet ante sagittis sollicitudin sem phasellus. Bibendum penatibus eget tempus gravida sapien. Habitasse erat nam sed semper massa ac nisl morbi. Imperdiet felis laoreet hendrerit posuere amet libero massa et ultrices. Interdum sem fames ultricies tortor amet bibendum dapibus ac porta! Nunc ridiculus etiam ut suspendisse sagittis. Tincidunt blandit nam et malesuada consequat magna consectetur. Faucibus penatibus viverra efficitur dolor facilisis aptent maximus ultrices.</p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/abf17a77-6d49-4487-a0b5-f777c5873003"
+              },
+              "title": "Políticas de Pagamentos",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politicas-de-pagamentos",
+          "title": "Políticas de Pagamentos"
+        },
+        {
+          "body": [
+            {
+              "title": "Política de Fretes",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Política de Fretes"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICAS DE FRETE﻿</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Penatibus curabitur ornare sit morbi senectus. Pretium montes per semper torquent, tristique auctor imperdiet. Congue lacus mollis etiam dis luctus sagittis amet. Ornare ridiculus morbi accumsan lorem orci lacus. Nam dui lobortis sodales suspendisse placerat.</p><p>Dis amet gravida ultricies nisi viverra. Scelerisque ante eleifend habitant euismod nisl morbi magnis. Aenean tempus vitae dis morbi vulputate. Nibh lobortis netus risus egestas natoque integer faucibus. Lorem laoreet tempor faucibus elit; facilisis leo inceptos. Quisque volutpat eget id pulvinar egestas varius odio. Fringilla mauris scelerisque ullamcorper lectus massa inceptos conubia. Taciti vehicula convallis vehicula congue potenti.</p><p>Proin ullamcorper non erat, risus ligula mollis sollicitudin quisque tellus. Adipiscing mauris vulputate vestibulum dictum nisl imperdiet. Platea tellus mollis nascetur, efficitur magna habitant vestibulum. Odio sodales curabitur non volutpat sociosqu placerat faucibus. Bibendum porttitor mus torquent mattis duis sit scelerisque feugiat. Adipiscing viverra et sapien luctus parturient eget. Sapien sem potenti himenaeos egestas fermentum non.</p><p>Nisl id aliquet ante sagittis sollicitudin sem phasellus. Bibendum penatibus eget tempus gravida sapien. Habitasse erat nam sed semper massa ac nisl morbi. Imperdiet felis laoreet hendrerit posuere amet libero massa et ultrices. Interdum sem fames ultricies tortor amet bibendum dapibus ac porta! Nunc ridiculus etiam ut suspendisse sagittis. Tincidunt blandit nam et malesuada consequat magna consectetur. Faucibus penatibus viverra efficitur dolor facilisis aptent maximus ultrices.</p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/8d9f0b3c-50ee-4fa2-99f3-d2ec3deb49ad"
+              },
+              "title": "Política de Fretes",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politica-de-fretes",
+          "title": "Política de Fretes"
+        },
+        {
+          "body": [
+            {
+              "title": "Como Comprar",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Como Comprar"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>COMO COMPRAR﻿</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Penatibus curabitur ornare sit morbi senectus. Pretium montes per semper torquent, tristique auctor imperdiet. Congue lacus mollis etiam dis luctus sagittis amet. Ornare ridiculus morbi accumsan lorem orci lacus. Nam dui lobortis sodales suspendisse placerat.</p><p>Dis amet gravida ultricies nisi viverra. Scelerisque ante eleifend habitant euismod nisl morbi magnis. Aenean tempus vitae dis morbi vulputate. Nibh lobortis netus risus egestas natoque integer faucibus. Lorem laoreet tempor faucibus elit; facilisis leo inceptos. Quisque volutpat eget id pulvinar egestas varius odio. Fringilla mauris scelerisque ullamcorper lectus massa inceptos conubia. Taciti vehicula convallis vehicula congue potenti.</p><p>Proin ullamcorper non erat, risus ligula mollis sollicitudin quisque tellus. Adipiscing mauris vulputate vestibulum dictum nisl imperdiet. Platea tellus mollis nascetur, efficitur magna habitant vestibulum. Odio sodales curabitur non volutpat sociosqu placerat faucibus. Bibendum porttitor mus torquent mattis duis sit scelerisque feugiat. Adipiscing viverra et sapien luctus parturient eget. Sapien sem potenti himenaeos egestas fermentum non.</p><p>Nisl id aliquet ante sagittis sollicitudin sem phasellus. Bibendum penatibus eget tempus gravida sapien. Habitasse erat nam sed semper massa ac nisl morbi. Imperdiet felis laoreet hendrerit posuere amet libero massa et ultrices. Interdum sem fames ultricies tortor amet bibendum dapibus ac porta! Nunc ridiculus etiam ut suspendisse sagittis. Tincidunt blandit nam et malesuada consequat magna consectetur. Faucibus penatibus viverra efficitur dolor facilisis aptent maximus ultrices.</p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/e1a5610f-eea9-421c-9f14-c5d0e34e49b7"
+              },
+              "title": "Como Comprar",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "como-comprar",
+          "title": "Como Comprar"
+        },
+        {
+          "body": [
+            {
+              "title": "Política de Troca e Devolução",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Política de Troca e Devolução"
+            },
+            {
+              "text": "<p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><strong>POLÍTICA DE TROCA E DEVOLUÇÃO</strong></span></p><p style=\"line-height: 1.5;\" data-mce-style=\"line-height: 1.5;\"><br data-mce-bogus=\"1\"></p><p>Lorem ipsum odor amet, consectetuer adipiscing elit. Penatibus curabitur ornare sit morbi senectus. Pretium montes per semper torquent, tristique auctor imperdiet. Congue lacus mollis etiam dis luctus sagittis amet. Ornare ridiculus morbi accumsan lorem orci lacus. Nam dui lobortis sodales suspendisse placerat.</p><p>Dis amet gravida ultricies nisi viverra. Scelerisque ante eleifend habitant euismod nisl morbi magnis. Aenean tempus vitae dis morbi vulputate. Nibh lobortis netus risus egestas natoque integer faucibus. Lorem laoreet tempor faucibus elit; facilisis leo inceptos. Quisque volutpat eget id pulvinar egestas varius odio. Fringilla mauris scelerisque ullamcorper lectus massa inceptos conubia. Taciti vehicula convallis vehicula congue potenti.</p><p>Proin ullamcorper non erat, risus ligula mollis sollicitudin quisque tellus. Adipiscing mauris vulputate vestibulum dictum nisl imperdiet. Platea tellus mollis nascetur, efficitur magna habitant vestibulum. Odio sodales curabitur non volutpat sociosqu placerat faucibus. Bibendum porttitor mus torquent mattis duis sit scelerisque feugiat. Adipiscing viverra et sapien luctus parturient eget. Sapien sem potenti himenaeos egestas fermentum non.</p><p>Nisl id aliquet ante sagittis sollicitudin sem phasellus. Bibendum penatibus eget tempus gravida sapien. Habitasse erat nam sed semper massa ac nisl morbi. Imperdiet felis laoreet hendrerit posuere amet libero massa et ultrices. Interdum sem fames ultricies tortor amet bibendum dapibus ac porta! Nunc ridiculus etiam ut suspendisse sagittis. Tincidunt blandit nam et malesuada consequat magna consectetur. Faucibus penatibus viverra efficitur dolor facilisis aptent maximus ultrices.</p>",
+              "image": {
+                "alt": "imagem",
+                "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4403/e1a5610f-eea9-421c-9f14-c5d0e34e49b7"
+              },
+              "title": "Política de Troca e Devolução",
+              "__resolveType": "site/sections/Institutional/InstitutionalBody.tsx"
+            }
+          ],
+          "slug": "politica-de-troca-e-devolucao",
+          "title": "Política de Troca e Devolução"
+        },
+        {
+          "body": [
+            {
+              "title": "Fale conosco",
+              "__resolveType": "site/sections/SEO/PageSEO.tsx",
+              "structuredData": null,
+              "description": "Fale conosco"
+            },
+            {
+              "__resolveType": "site/sections/Forms/Contact.tsx",
+              "settings": {
+                "acronym": "FC"
+              }
+            }
+          ],
+          "slug": "fale-conosco",
+          "title": "Fale Conosco"
+        }
+      ],
+      "__resolveType": "site/sections/Institutional/Institutional.tsx"
+    },
+    {
+      "__resolveType": "Benefits - padrão"
+    },
+    {
+      "__resolveType": "Newsletter - padrão"
+    },
+    {
+      "__resolveType": "Footer - padrão"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

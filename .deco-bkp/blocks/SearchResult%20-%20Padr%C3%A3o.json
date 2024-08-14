@@ -1,0 +1,65 @@
+{
+  "page": {
+    "__resolveType": "wake/loaders/productListingPage.ts",
+    "limit": 12,
+    "operation": "AND",
+    "sort": "NAME:ASC",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    },
+    "pageOffset": 0
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "32px",
+        "marginBottom": "40px"
+      },
+      "desktop": {
+        "marginTop": "32px",
+        "marginBottom": "64px"
+      }
+    }
+  },
+  "__resolveType": "site/sections/Product/SearchResult.tsx",
+  "notFoundProps": {
+    "email": "contato@thamaracapelao.com.br",
+    "phone": "(31) 98751-6565",
+    "notFoundShelf": {
+      "__resolveType": "Product Shelf Not Found"
+    }
+  },
+  "notFound": {
+    "layout": {
+      "mobile": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    },
+    "__resolveType": "Busca Vazia"
+  },
+  "section": {},
+  "name": "productGroup",
+  "productName": "productGroup"
+}

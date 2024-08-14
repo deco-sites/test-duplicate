@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://fast-fashion2-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "93b53646962dda7a47a7d5749e9d21dd539f994fbef5f00a5adcae3442620edb4610b9318b8313b6ec017f1264632368a31f3e7fd5f69ddd5edc1245aa5267eb0d3b4f83815e488d18a2fd8bd28599ab2d04b1bf2f8ffbd4981c320f11bbeb813d1944b87dfad9748d3bdd19e4340987584b22f292db0ce0a9da36edf7530d8979bbe94c32c8f0ab82c748cc498cf90ac0a25685991654e5b4b7e04b0a9d744c6202a5abf2f266a4458d3f813d51a0136b481f4de73147b7cf4f3077f3773ddf39faaae94e20314c8c12c9ec0e2d85f224be12a3dd4b420226ce65b85e0fe834"
+  }
+}

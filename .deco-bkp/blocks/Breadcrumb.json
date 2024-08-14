@@ -1,0 +1,18 @@
+{
+  "__resolveType": "site/sections/Category/BreadcrumbPLP.tsx",
+  "page": {
+    "__resolveType": "PLP Loader"
+  },
+  "sectionProps": {
+    "layout": {
+      "mobile": {
+        "marginTop": "16px",
+        "marginBottom": "0px"
+      },
+      "desktop": {
+        "marginTop": "16px",
+        "marginBottom": "0px"
+      }
+    }
+  }
+}
